@@ -3,7 +3,7 @@ id: 5a381298b35773003a9df0aa
 title: The Purpose of being a Parent
 url: the-purpose-of-being-a-parent
 images:
-- /home/erik/code/articles/the-purpose-of-being-a-parent/Parents_Children.jpg
+- Parents_Children.jpg
 banner: Parents_Children.jpg
 publishDate: 11/18/2015
 dataSource: /home/erik/code/articles/the-purpose-of-being-a-parent/the-purpose-of-being-a-parent.md

@@ -3,7 +3,7 @@ id: 5a3896d9b0c36c00344c372f
 title: Meet Good People Online
 url: meet-good-people-online/
 images:
-- /home/erik/code/articles/meet-good-people-online/meet_real_people.jpg
+- meet_real_people.jpg
 banner: meet_real_people.jpg
 publishDate: 04/10/2016
 dataSource: /home/erik/code/articles/meet-good-people-online/meet-good-people-online.md

@@ -1,12 +1,12 @@
 ---
-id: 5a330310bf435a00340796b8
+id: 5ac17b1b77ab840099446fca
 title: How to beat burnout
 url: how-to-beat-burnout
 images:
-- /home/erik/code/articles/how-to-beat-burnout/burnout.png
+- burnout.png
 banner: burnout.png
 publishDate: 02/05/2017
-dataSource: /home/erik/code/articles/how-to-beat-burnout/how-to-beat-burnout.md
+dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-beat-burnout/how-to-beat-burnout.md
 author: Erik Craddock
 categories:
 - work

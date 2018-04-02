@@ -1,12 +1,12 @@
 ---
-id: 5a3894e5b0c36c00344c372b
+id: 5ac16d6e77ab840099446fc0
 title: Don’t automate your life
 url: dont-automate-life
 images:
-- /home/erik/code/articles/dont-automate-life/computer-brains.jpg
+- computer-brains.jpg
 banner: computer-brains.jpg
 publishDate: 05/02/2016
-dataSource: /home/erik/code/articles/dont-automate-life/dont-automate-life.md
+dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/dont-automate-life/dont-automate-life.md
 author: Erik Craddock
 categories:
 - work

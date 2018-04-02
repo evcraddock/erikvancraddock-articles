@@ -1,12 +1,12 @@
 ---
-id: 5a3579fc22e696003a6ece6c
+id: 5ac179f977ab840099446fc7
 title: How I consume the Internet
 url: how-i-consume-the-internet
 images:
-- /home/erik/code/articles/how-i-consume-the-internet/internet-junkie.jpg
+- internet-junkie.jpg
 banner: internet-junkie.jpg
 publishDate: 06/29/2016
-dataSource: /home/erik/code/articles/how-i-consume-the-internet/how-i-consume-the-internet.md
+dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-i-consume-the-internet/how-i-consume-the-internet.md
 author: Erik Craddock
 categories:
 - ideas
