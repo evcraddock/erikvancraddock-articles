@@ -11,8 +11,8 @@ author: Erik Craddock
 categories:
 - ideas
 tags:
-- Ideas
-- Productivity
+- ideas
+- productivity
 ---
 I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I'm not careful I will find myself reading about some [obscure religious rite](http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites) or the [mating habits of deep sea creatures](http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/) or [Neuromancer fan fiction](https://www.fanfiction.net/u/55503/Electric-Monk). Every subject is represented. There are niche groups living within niche groups. Unbelievably, there is just too much information. 
 
