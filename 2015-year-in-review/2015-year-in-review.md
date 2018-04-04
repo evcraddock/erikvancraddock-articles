@@ -9,8 +9,8 @@ dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/2015-year-in-r
 author: erik
 categories:
 - work
+tags:
 - productivity
-tags: []
 ---
 
 

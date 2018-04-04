@@ -9,7 +9,8 @@ dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/bibliophiles_a
 author: erik
 categories:
 - ideas
-tags: []
+tags:
+- books
 ---
 
 Hello, my name is Erik and I am a bibliophile. I have a serious reading problem. I have read countless books, both fiction and nonfiction. I read blogs, news articles, wikipedia entries and comics. I read product reviews on shopping websites. I read the biographies of people I admire or want to emulate. I read about music and on other topics that I desire improved skills. I can easily lose a full day when I run across something new and interesting. I easily spend six hours on any given day reading. I tend to obsess on the same topic for months on end before moving on to a new one.
