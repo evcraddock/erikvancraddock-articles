@@ -3,6 +3,9 @@ title: Build Habits with Google Forms
 url: how-to-build-habits-with-google-forms.md
 images:
 - Go-to-live-form.png
+- Create-Form.png
+- Create-Recuring-Task.png
+- Morning-Checklist.png
 banner: Go-to-live-form.png
 date: 10/08/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-build-habits-with-google-forms/how-to-build-habits-with-google-forms.md
