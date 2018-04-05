@@ -5,7 +5,7 @@ url: the-decline-of-music-appreciation.md
 images:
 - music-appreciation-decline.jpg
 banner: music-appreciation-decline.jpg
-date: 09/18/2012
+publishDate: 09/18/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-decline-of-music-appreciation/the-decline-of-music-appreciation.md
 author: erik
 categories:

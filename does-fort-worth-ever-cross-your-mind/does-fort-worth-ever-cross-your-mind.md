@@ -5,7 +5,7 @@ url: does-fort-worth-ever-cross-your-mind.md
 images:
 - fortworthskyline.jpg
 banner: fortworthskyline.jpg
-date: 10/23/2015
+publishDate: 10/23/2015
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/does-fort-worth-ever-cross-your-mind/does-fort-worth-ever-cross-your-mind.md
 author: erik
 categories:

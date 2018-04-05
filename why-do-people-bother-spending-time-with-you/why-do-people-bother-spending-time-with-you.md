@@ -5,7 +5,7 @@ url: why-do-people-bother-spending-time-with-you.md
 images:
 - spending-time.png
 banner: spending-time.png
-date: 05/16/2012
+publishDate: 05/16/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/why-do-people-bother-spending-time-with-you/why-do-people-bother-spending-time-with-you.md
 author: erik
 categories:

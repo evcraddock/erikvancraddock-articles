@@ -5,7 +5,7 @@ url: the-great-american-rv-adventure-preparation.md
 images:
 - america-trip.jpg
 banner: america-trip.jpg
-date: 08/08/2011
+publishDate: 08/08/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-great-american-rv-adventure-preparation/the-great-american-rv-adventure-preparation.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: meet-good-people-online.md
 images:
 - meet_real_people.jpg
 banner: meet_real_people.jpg
-date: 04/10/2016
+publishDate: 04/10/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/meet-good-people-online/meet-good-people-online.md
 author: Erik Craddock
 categories:

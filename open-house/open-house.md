@@ -5,7 +5,7 @@ url: open-house.md
 images:
 - open-house.jpg
 banner: open-house.jpg
-date: 03/12/2011
+publishDate: 03/12/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/open-house/open-house.md
 author: erik
 categories:

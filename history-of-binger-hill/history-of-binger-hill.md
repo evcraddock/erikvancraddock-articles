@@ -5,7 +5,7 @@ url: history-of-binger-hill.md
 images:
 - thehill.jpg
 banner: thehill.jpg
-date: 12/26/2012
+publishDate: 12/26/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/history-of-binger-hill/history-of-binger-hill.md
 author: erik
 categories:

@@ -4,7 +4,7 @@ title: Why am I doing this again?
 url: why-am-i-doing-this-again.md
 images: []
 banner: ""
-date: 03/20/2009
+publishDate: 03/20/2009
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/why-am-i-doing-this-again/why-am-i-doing-this-again.md
 author: erik
 categories:

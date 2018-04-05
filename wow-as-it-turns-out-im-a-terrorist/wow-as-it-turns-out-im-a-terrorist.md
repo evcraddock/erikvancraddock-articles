@@ -4,7 +4,7 @@ title: Wow as it turns out I’m a terrorist
 url: wow-as-it-turns-out-im-a-terrorist.md
 images: []
 banner: ""
-date: 05/20/2009
+publishDate: 05/20/2009
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/wow-as-it-turns-out-im-a-terrorist/wow-as-it-turns-out-im-a-terrorist.md
 author: erik
 categories:

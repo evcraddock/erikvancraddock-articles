@@ -5,7 +5,7 @@ url: socialized-digital-product-development.md
 images:
 - social-digital.jpg
 banner: social-digital.jpg
-date: 05/04/2012
+publishDate: 05/04/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/socialized-digital-product-development/socialized-digital-product-development.md
 author: erik
 categories:

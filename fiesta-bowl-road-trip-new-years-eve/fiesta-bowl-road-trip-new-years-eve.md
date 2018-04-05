@@ -5,7 +5,7 @@ url: fiesta-bowl-road-trip-new-years-eve.md
 images:
 - with-care.jpg
 banner: with-care.jpg
-date: 01/26/2011
+publishDate: 01/26/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-road-trip-new-years-eve/fiesta-bowl-road-trip-new-years-eve.md
 author: erik
 categories:

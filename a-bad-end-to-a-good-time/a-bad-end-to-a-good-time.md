@@ -4,7 +4,7 @@ title: A Bad End to a Good Time
 url: a-bad-end-to-a-good-time.md
 images: []
 banner: ""
-date: 10/24/2012
+publishDate: 10/24/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/a-bad-end-to-a-good-time/a-bad-end-to-a-good-time.md
 author: erik
 categories:

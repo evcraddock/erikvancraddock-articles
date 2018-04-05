@@ -5,7 +5,7 @@ url: football-camp.md
 images:
 - football-buddies.jpg
 banner: football-buddies.jpg
-date: 07/31/2010
+publishDate: 07/31/2010
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/football-camp/football-camp.md
 author: erik
 categories:

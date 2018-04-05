@@ -5,7 +5,7 @@ url: our-great-american-rv-adventure-mount-rushmore.md
 images:
 - rushmore.jpg
 banner: rushmore.jpg
-date: 10/11/2011
+publishDate: 10/11/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-mount-rushmore/our-great-american-rv-adventure-mount-rushmore.md
 author: erik
 categories:

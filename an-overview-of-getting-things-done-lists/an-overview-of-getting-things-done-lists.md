@@ -5,7 +5,7 @@ url: an-overview-of-getting-things-done-lists.md
 images:
 - gtd-list.jpg
 banner: gtd-list.jpg
-date: 07/29/2013
+publishDate: 07/29/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/an-overview-of-getting-things-done-lists/an-overview-of-getting-things-done-lists.md
 author: erik
 categories:

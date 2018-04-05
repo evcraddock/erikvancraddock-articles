@@ -4,7 +4,7 @@ title: Not smoking sux
 url: not-smoking-sux.md
 images: []
 banner: ""
-date: 03/25/2009
+publishDate: 03/25/2009
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/not-smoking-sux/not-smoking-sux.md
 author: erik
 categories:

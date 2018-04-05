@@ -5,7 +5,7 @@ url: fiesta-bowl-trip-stranded-roswell.md
 images:
 - roswell.jpg
 banner: roswell.jpg
-date: 01/21/2011
+publishDate: 01/21/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-trip-stranded-roswell/fiesta-bowl-trip-stranded-roswell.md
 author: erik
 categories:

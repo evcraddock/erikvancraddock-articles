@@ -5,7 +5,7 @@ url: the-voices-in-my-head.md
 images:
 - voices-in-my-head.jpg
 banner: voices-in-my-head.jpg
-date: 05/01/2012
+publishDate: 05/01/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-voices-in-my-head/the-voices-in-my-head.md
 author: erik
 categories:

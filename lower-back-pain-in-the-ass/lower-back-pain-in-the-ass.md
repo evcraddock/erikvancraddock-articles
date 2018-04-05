@@ -5,7 +5,7 @@ url: lower-back-pain-in-the-ass.md
 images:
 - oldman.jpg
 banner: oldman.jpg
-date: 02/07/2013
+publishDate: 02/07/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/lower-back-pain-in-the-ass/lower-back-pain-in-the-ass.md
 author: erik
 categories:

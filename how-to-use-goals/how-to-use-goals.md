@@ -5,7 +5,7 @@ url: how-to-use-goals.md
 images:
 - goals.jpg
 banner: goals.jpg
-date: 01/25/2016
+publishDate: 01/25/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-use-goals/how-to-use-goals.md
 author: erik
 categories:

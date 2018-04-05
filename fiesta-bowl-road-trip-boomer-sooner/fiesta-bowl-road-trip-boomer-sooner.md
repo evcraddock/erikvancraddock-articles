@@ -5,7 +5,7 @@ url: fiesta-bowl-road-trip-boomer-sooner.md
 images:
 - fiesta-bowl-2011.jpg
 banner: fiesta-bowl-2011.jpg
-date: 02/01/2011
+publishDate: 02/01/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-road-trip-boomer-sooner/fiesta-bowl-road-trip-boomer-sooner.md
 author: erik
 categories:

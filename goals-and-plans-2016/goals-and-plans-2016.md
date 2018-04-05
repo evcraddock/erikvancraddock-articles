@@ -5,7 +5,7 @@ url: goals-and-plans-2016.md
 images:
 - 2016-goals.jpg
 banner: 2016-goals.jpg
-date: 01/03/2016
+publishDate: 01/03/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/goals-and-plans-2016/goals-and-plans-2016.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: a-3-year-old-storm-hit-montgomery-tx.md
 images:
 - 3yearold-storm.jpg
 banner: 3yearold-storm.jpg
-date: 09/05/2012
+publishDate: 09/05/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/a-3-year-old-storm-hit-montgomery-tx/a-3-year-old-storm-hit-montgomery-tx.md
 author: erik
 categories:

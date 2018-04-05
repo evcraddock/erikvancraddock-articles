@@ -5,7 +5,7 @@ url: our-great-american-rv-adventure-colorado-springs.md
 images:
 - colorado-springs.jpg
 banner: colorado-springs.jpg
-date: 08/26/2011
+publishDate: 08/26/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-colorado-springs/our-great-american-rv-adventure-colorado-springs.md
 author: erik
 categories:

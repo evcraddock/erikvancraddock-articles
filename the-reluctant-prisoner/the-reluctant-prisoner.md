@@ -5,7 +5,7 @@ url: the-reluctant-prisoner.md
 images:
 - prisoner.jpg
 banner: prisoner.jpg
-date: 02/24/2011
+publishDate: 02/24/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-reluctant-prisoner/the-reluctant-prisoner.md
 author: erik
 categories:

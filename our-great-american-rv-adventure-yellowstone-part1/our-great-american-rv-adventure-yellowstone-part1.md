@@ -5,7 +5,7 @@ url: our-great-american-rv-adventure-yellowstone-part1.md
 images:
 - Danger.jpg
 banner: Danger.jpg
-date: 09/09/2011
+publishDate: 09/09/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-yellowstone-part1/our-great-american-rv-adventure-yellowstone-part1.md
 author: erik
 categories:

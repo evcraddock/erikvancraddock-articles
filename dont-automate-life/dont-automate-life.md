@@ -5,7 +5,7 @@ url: dont-automate-life
 images:
 - computer-brains.jpg
 banner: computer-brains.jpg
-date: 04/04/2018
+publishDate: 05/02/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/dont-automate-life/dont-automate-life.md
 author: Erik Craddock
 categories:

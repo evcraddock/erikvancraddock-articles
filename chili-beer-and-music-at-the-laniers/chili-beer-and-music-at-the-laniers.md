@@ -4,7 +4,7 @@ title: Chili, beer and music at the Lanier’s
 url: chili-beer-and-music-at-the-laniers.md
 images: []
 banner: ""
-date: 05/29/2012
+publishDate: 05/29/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/chili-beer-and-music-at-the-laniers/chili-beer-and-music-at-the-laniers.md
 author: erik
 categories:

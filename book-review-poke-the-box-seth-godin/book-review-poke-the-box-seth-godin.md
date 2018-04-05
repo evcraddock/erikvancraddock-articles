@@ -5,7 +5,7 @@ url: book-review-poke-the-box-seth-godin.md
 images:
 - poke-the-box.jpg
 banner: poke-the-box.jpg
-date: 03/18/2011
+publishDate: 03/18/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/book-review-poke-the-box-seth-godin/book-review-poke-the-box-seth-godin.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: 2015-year-in-review.md
 images:
 - 2015-Yearend.jpg
 banner: 2015-Yearend.jpg
-date: 12/30/2015
+publishDate: 12/30/2015
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/2015-year-in-review/2015-year-in-review.md
 author: erik
 categories:

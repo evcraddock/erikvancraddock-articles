@@ -5,7 +5,7 @@ url: whining-crying-and-belly-aching.md
 images:
 - whining.jpg
 banner: whining.jpg
-date: 03/28/2013
+publishDate: 03/28/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/whining-crying-and-belly-aching/whining-crying-and-belly-aching.md
 author: erik
 categories:

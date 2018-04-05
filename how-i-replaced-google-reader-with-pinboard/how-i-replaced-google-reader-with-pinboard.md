@@ -5,7 +5,7 @@ url: how-i-replaced-google-reader-with-pinboard.md
 images:
 - pinboard_in_blue.png
 banner: pinboard_in_blue.png
-date: 04/19/2013
+publishDate: 04/19/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-i-replaced-google-reader-with-pinboard/how-i-replaced-google-reader-with-pinboard.md
 author: erik
 categories:

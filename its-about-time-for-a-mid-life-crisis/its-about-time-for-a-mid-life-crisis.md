@@ -5,7 +5,7 @@ url: its-about-time-for-a-mid-life-crisis.md
 images:
 - turning-fourty.jpg
 banner: turning-fourty.jpg
-date: 07/22/2012
+publishDate: 07/22/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/its-about-time-for-a-mid-life-crisis/its-about-time-for-a-mid-life-crisis.md
 author: erik
 categories:

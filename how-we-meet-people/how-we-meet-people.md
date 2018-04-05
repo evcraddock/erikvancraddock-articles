@@ -5,7 +5,7 @@ url: how-we-meet-people
 images:
 - your-social-media-sucks-icon.jpg
 banner: your-social-media-sucks-icon.jpg
-date: 04/04/2018
+publishDate: 03/12/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-we-meet-people/how-we-meet-people.md
 author: Erik Craddock
 categories:

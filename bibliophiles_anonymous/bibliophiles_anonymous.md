@@ -5,7 +5,7 @@ url: bibliophiles_anonymous.md
 images:
 - BookClub.png
 banner: BookClub.png
-date: 08/01/2012
+publishDate: 08/01/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/bibliophiles_anonymous/bibliophiles_anonymous.md
 author: erik
 categories:

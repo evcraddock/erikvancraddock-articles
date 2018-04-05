@@ -4,7 +4,7 @@ title: It’s All A Cliche
 url: its-all-a-cliche.md
 images: []
 banner: ""
-date: 02/13/2013
+publishDate: 02/13/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/its-all-a-cliche/its-all-a-cliche.md
 author: erik
 categories:

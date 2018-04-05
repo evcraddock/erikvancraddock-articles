@@ -5,7 +5,7 @@ url: youthful-creativity.md
 images:
 - butch-meany.jpg
 banner: butch-meany.jpg
-date: 08/09/2011
+publishDate: 08/09/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/youthful-creativity/youthful-creativity.md
 author: erik
 categories:

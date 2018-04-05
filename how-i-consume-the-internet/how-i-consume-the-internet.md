@@ -5,7 +5,7 @@ url: how-i-consume-the-internet
 images:
 - internet-junkie.jpg
 banner: internet-junkie.jpg
-date: 04/04/2018
+publishDate: 06/29/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-i-consume-the-internet/how-i-consume-the-internet.md
 author: Erik Craddock
 categories:

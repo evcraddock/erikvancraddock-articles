@@ -5,7 +5,7 @@ url: who-is-otis-ray.md
 images:
 - Odis-and-Otis-Ray.png
 banner: Odis-and-Otis-Ray.png
-date: 11/27/2012
+publishDate: 11/27/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/who-is-otis-ray/who-is-otis-ray.md
 author: erik
 categories:

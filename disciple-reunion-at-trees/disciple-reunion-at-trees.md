@@ -5,7 +5,7 @@ url: disciple-reunion-at-trees.md
 images:
 - Disciple_2011.jpg
 banner: Disciple_2011.jpg
-date: 04/14/2011
+publishDate: 04/14/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/disciple-reunion-at-trees/disciple-reunion-at-trees.md
 author: erik
 categories:

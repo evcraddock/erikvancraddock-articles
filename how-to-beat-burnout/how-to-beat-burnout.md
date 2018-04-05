@@ -5,7 +5,7 @@ url: how-to-beat-burnout
 images:
 - burnout.png
 banner: burnout.png
-date: 04/04/2018
+publishDate: 02/05/2017
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-beat-burnout/how-to-beat-burnout.md
 author: Erik Craddock
 categories:

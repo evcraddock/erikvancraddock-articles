@@ -4,7 +4,7 @@ title: My weekend
 url: my-weekend.md
 images: []
 banner: ""
-date: 03/23/2009
+publishDate: 03/23/2009
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/my-weekend/my-weekend.md
 author: erik
 categories:

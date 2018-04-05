@@ -5,7 +5,7 @@ url: book-review-the-peoples-history-of-the-united-states-by-howard-zinn.md
 images:
 - peoples-history.jpg
 banner: peoples-history.jpg
-date: 04/19/2011
+publishDate: 04/19/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/book-review-the-peoples-history-of-the-united-states-by-howard-zinn/book-review-the-peoples-history-of-the-united-states-by-howard-zinn.md
 author: erik
 categories:

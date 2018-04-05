@@ -5,7 +5,7 @@ url: perfecting-sound-forever-summary.md
 images:
 - perfecting-sound.jpg
 banner: perfecting-sound.jpg
-date: 10/04/2012
+publishDate: 10/04/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/perfecting-sound-forever-summary/perfecting-sound-forever-summary.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: is-it-possible-to-sell-sound.md
 images:
 - sell-sound.jpg
 banner: sell-sound.jpg
-date: 10/15/2012
+publishDate: 10/15/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/is-it-possible-to-sell-sound/is-it-possible-to-sell-sound.md
 author: erik
 categories:

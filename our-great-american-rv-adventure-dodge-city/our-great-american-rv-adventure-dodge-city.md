@@ -5,7 +5,7 @@ url: our-great-american-rv-adventure-dodge-city.md
 images:
 - dodge-city.jpg
 banner: dodge-city.jpg
-date: 08/12/2011
+publishDate: 08/12/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-dodge-city/our-great-american-rv-adventure-dodge-city.md
 author: erik
 categories:

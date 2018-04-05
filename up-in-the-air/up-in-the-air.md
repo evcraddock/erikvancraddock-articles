@@ -5,7 +5,7 @@ url: up-in-the-air.md
 images:
 - up-in-the-air.jpg
 banner: up-in-the-air.jpg
-date: 10/05/2011
+publishDate: 10/05/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/up-in-the-air/up-in-the-air.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: grandma-and-the-rolltop-desk.md
 images:
 - grandmas-family.jpg
 banner: grandmas-family.jpg
-date: 08/08/2012
+publishDate: 08/08/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/grandma-and-the-rolltop-desk/grandma-and-the-rolltop-desk.md
 author: erik
 categories:

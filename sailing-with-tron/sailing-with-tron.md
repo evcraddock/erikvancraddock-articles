@@ -6,7 +6,7 @@ images:
 - captain-tron.jpg
 - sailing-rocks.jpg
 banner: captain-tron.jpg
-date: 07/26/2010
+publishDate: 07/26/2010
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/sailing-with-tron/sailing-with-tron.md
 author: erik
 categories:

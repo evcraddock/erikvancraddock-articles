@@ -5,7 +5,7 @@ url: communication-issues.md
 images:
 - comm-issues.jpg
 banner: comm-issues.jpg
-date: 05/23/2013
+publishDate: 05/23/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/communication-issues/communication-issues.md
 author: erik
 categories:

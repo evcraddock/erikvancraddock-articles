@@ -5,7 +5,7 @@ url: metabook-reviews.md
 images:
 - book-review.jpg
 banner: book-review.jpg
-date: 05/06/2011
+publishDate: 05/06/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/metabook-reviews/metabook-reviews.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: are-virtual-relationships-digitizing-our-souls.md
 images:
 - digital-soul.jpg
 banner: digital-soul.jpg
-date: 05/25/2012
+publishDate: 05/25/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/are-virtual-relationships-digitizing-our-souls/are-virtual-relationships-digitizing-our-souls.md
 author: erik
 categories:

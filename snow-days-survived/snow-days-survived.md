@@ -5,7 +5,7 @@ url: snow-days-survived.md
 images:
 - snow-day.jpg
 banner: snow-day.jpg
-date: 02/08/2011
+publishDate: 02/08/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/snow-days-survived/snow-days-survived.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: my-history-with-music.md
 images:
 - first-guitar.jpg
 banner: first-guitar.jpg
-date: 04/26/2012
+publishDate: 04/26/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/my-history-with-music/my-history-with-music.md
 author: erik
 categories:

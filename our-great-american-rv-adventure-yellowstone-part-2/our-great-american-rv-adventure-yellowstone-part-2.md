@@ -5,7 +5,7 @@ url: our-great-american-rv-adventure-yellowstone-part-2.md
 images:
 - oldfaithful.jpg
 banner: oldfaithful.jpg
-date: 10/01/2011
+publishDate: 10/01/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-yellowstone-part-2/our-great-american-rv-adventure-yellowstone-part-2.md
 author: erik
 categories:

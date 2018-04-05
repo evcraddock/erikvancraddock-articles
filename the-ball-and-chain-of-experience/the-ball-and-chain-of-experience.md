@@ -5,7 +5,7 @@ url: the-ball-and-chain-of-experience.md
 images:
 - Elevator-Store.jpg
 banner: Elevator-Store.jpg
-date: 02/19/2013
+publishDate: 02/19/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-ball-and-chain-of-experience/the-ball-and-chain-of-experience.md
 author: erik
 categories:

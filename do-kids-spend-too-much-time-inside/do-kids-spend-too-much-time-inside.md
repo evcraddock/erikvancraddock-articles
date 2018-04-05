@@ -5,7 +5,7 @@ url: do-kids-spend-too-much-time-inside.md
 images:
 - pool-fun.jpg
 banner: pool-fun.jpg
-date: 08/31/2012
+publishDate: 08/31/2012
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/do-kids-spend-too-much-time-inside/do-kids-spend-too-much-time-inside.md
 author: erik
 categories:

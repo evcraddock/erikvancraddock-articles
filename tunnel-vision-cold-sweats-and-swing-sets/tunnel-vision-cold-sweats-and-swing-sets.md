@@ -4,7 +4,7 @@ title: Tunnel Vision, cold sweats and swing sets
 url: tunnel-vision-cold-sweats-and-swing-sets.md
 images: []
 banner: ""
-date: 03/25/2009
+publishDate: 03/25/2009
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/tunnel-vision-cold-sweats-and-swing-sets/tunnel-vision-cold-sweats-and-swing-sets.md
 author: erik
 categories:

@@ -5,7 +5,7 @@ url: fiesta-bowl-road-trip-day-one.md
 images:
 - fiesta-bound.jpg
 banner: fiesta-bound.jpg
-date: 01/19/2011
+publishDate: 01/19/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-road-trip-day-one/fiesta-bowl-road-trip-day-one.md
 author: erik
 categories:

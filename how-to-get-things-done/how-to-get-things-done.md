@@ -5,7 +5,7 @@ url: how-to-get-things-done.md
 images:
 - gtd.jpg
 banner: gtd.jpg
-date: 08/25/2013
+publishDate: 08/25/2013
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-get-things-done/how-to-get-things-done.md
 author: erik
 categories:

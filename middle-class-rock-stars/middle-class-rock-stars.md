@@ -5,7 +5,7 @@ url: middle-class-rock-stars.md
 images:
 - hero.jpg
 banner: hero.jpg
-date: 04/27/2011
+publishDate: 04/27/2011
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/middle-class-rock-stars/middle-class-rock-stars.md
 author: erik
 categories:

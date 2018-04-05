@@ -5,7 +5,7 @@ url: how-to-teach-kids-to-learn.md
 images:
 - teach-kids.jpg
 banner: teach-kids.jpg
-date: 04/26/2015
+publishDate: 04/26/2015
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-teach-kids-to-learn/how-to-teach-kids-to-learn.md
 author: erik
 categories:

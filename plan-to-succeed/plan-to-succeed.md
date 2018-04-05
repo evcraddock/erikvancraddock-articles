@@ -5,7 +5,7 @@ url: plan-to-succeed.md
 images:
 - success_baby.jpg
 banner: success_baby.jpg
-date: 02/28/2016
+publishDate: 02/28/2016
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/plan-to-succeed/plan-to-succeed.md
 author: erik
 categories:
