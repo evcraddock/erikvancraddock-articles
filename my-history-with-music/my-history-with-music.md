@@ -1,7 +1,7 @@
 ---
 id: 5ac582371b0b90003a6e4b14
 title: My History with Music
-url: my-history-with-music.md
+url: my-history-with-music
 images:
 - first-guitar.jpg
 banner: first-guitar.jpg

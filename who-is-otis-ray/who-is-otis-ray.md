@@ -1,7 +1,7 @@
 ---
 id: 5ac582df1b0b90003a6e4b68
 title: Who Is Otis Ray?
-url: who-is-otis-ray.md
+url: who-is-otis-ray
 images:
 - Odis-and-Otis-Ray.png
 banner: Odis-and-Otis-Ray.png

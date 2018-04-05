@@ -1,7 +1,7 @@
 ---
 id: 5ac44b181b0b90003a6e4ab2
 title: The People’s History of the United States by Howard Zinn – Book Review
-url: book-review-the-peoples-history-of-the-united-states-by-howard-zinn.md
+url: book-review-the-peoples-history-of-the-united-states-by-howard-zinn
 images:
 - peoples-history.jpg
 banner: peoples-history.jpg

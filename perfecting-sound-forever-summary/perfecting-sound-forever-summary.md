@@ -1,7 +1,7 @@
 ---
 id: 5ac582391b0b90003a6e4b35
 title: Perfecting Sound Forever – Summary
-url: perfecting-sound-forever-summary.md
+url: perfecting-sound-forever-summary
 images:
 - perfecting-sound.jpg
 banner: perfecting-sound.jpg

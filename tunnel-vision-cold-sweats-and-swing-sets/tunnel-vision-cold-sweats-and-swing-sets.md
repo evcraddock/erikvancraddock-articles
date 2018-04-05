@@ -1,7 +1,7 @@
 ---
 id: 5ac582df1b0b90003a6e4b61
 title: Tunnel Vision, cold sweats and swing sets
-url: tunnel-vision-cold-sweats-and-swing-sets.md
+url: tunnel-vision-cold-sweats-and-swing-sets
 images: []
 banner: ""
 publishDate: 03/25/2009

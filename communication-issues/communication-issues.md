@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1b1b0b90003a6e4ab6
 title: Communication Issues
-url: communication-issues.md
+url: communication-issues
 images:
 - comm-issues.jpg
 banner: comm-issues.jpg

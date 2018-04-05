@@ -1,7 +1,7 @@
 ---
 id: 5ac582091b0b90003a6e4b0b
 title: Meet Good People Online
-url: meet-good-people-online.md
+url: meet-good-people-online
 images:
 - meet_real_people.jpg
 banner: meet_real_people.jpg

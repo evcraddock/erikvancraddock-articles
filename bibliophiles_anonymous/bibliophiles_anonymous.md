@@ -1,7 +1,7 @@
 ---
 id: 5ac44b181b0b90003a6e4aaa
 title: Bibliophiles Anonymous
-url: bibliophiles_anonymous.md
+url: bibliophiles_anonymous
 images:
 - BookClub.png
 banner: BookClub.png

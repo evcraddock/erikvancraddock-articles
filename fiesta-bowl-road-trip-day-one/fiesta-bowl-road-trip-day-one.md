@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1c1b0b90003a6e4ac7
 title: Fiesta Bowl Road Trip – Day One
-url: fiesta-bowl-road-trip-day-one.md
+url: fiesta-bowl-road-trip-day-one
 images:
 - fiesta-bound.jpg
 banner: fiesta-bound.jpg

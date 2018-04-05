@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1f1b0b90003a6e4af6
 title: How to Use Goals
-url: how-to-use-goals.md
+url: how-to-use-goals
 images:
 - goals.jpg
 banner: goals.jpg
@@ -14,7 +14,6 @@ categories:
 tags:
 - goals
 ---
-  
 <span style="font-weight: 400;">Every year in January a horde of people line up at the gym for that magical workout that will change their lives forever. They make grandiose promises of losing 50 pounds, giving up sugar, or quitting smoking. Of course by the 2nd week of January the gym is a ghost town, candy bar sales are through the roof and that pack of cigarettes became two. Why is it so hard to do what we know needs to be done? It’s not like it’s someone else’s problem that we are being asked to care about. In fact, typically people are much better at doing the work that is important to someone else, such as their boss.</span>
 
 <span style="font-weight: 400;">The problem is a lack of planning. If you don’t plan your life, someone will plan it for you, more than likely your boss. Without a plan, all you can do is fumble around in the dark dealing with issues as they occur. It is virtually impossible to accomplish anything substantial without a certain amount of organization. But to keep track of what you need to do, you must know what you need to do. You must have a goal. </span>

@@ -1,7 +1,7 @@
 ---
 id: 5ac44b181b0b90003a6e4aa7
 title: Are Virtual Relationships Digitizing our Souls?
-url: are-virtual-relationships-digitizing-our-souls.md
+url: are-virtual-relationships-digitizing-our-souls
 images:
 - digital-soul.jpg
 banner: digital-soul.jpg

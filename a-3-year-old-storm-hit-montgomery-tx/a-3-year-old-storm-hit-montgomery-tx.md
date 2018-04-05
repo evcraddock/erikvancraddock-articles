@@ -1,7 +1,7 @@
 ---
 id: 5ac44b111b0b90003a6e4aa0
 title: A 3 year old Storm hit Montgomery, Tx
-url: a-3-year-old-storm-hit-montgomery-tx.md
+url: a-3-year-old-storm-hit-montgomery-tx
 images:
 - 3yearold-storm.jpg
 banner: 3yearold-storm.jpg

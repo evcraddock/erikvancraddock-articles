@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1b1b0b90003a6e4abc
 title: Do Kids Spend Too Much Time Inside?
-url: do-kids-spend-too-much-time-inside.md
+url: do-kids-spend-too-much-time-inside
 images:
 - pool-fun.jpg
 banner: pool-fun.jpg

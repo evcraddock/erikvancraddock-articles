@@ -1,7 +1,7 @@
 ---
 id: 5ac44e101b0b90003a6e4afc
 title: Is it possible to sell sound?
-url: is-it-possible-to-sell-sound.md
+url: is-it-possible-to-sell-sound
 images:
 - sell-sound.jpg
 banner: sell-sound.jpg

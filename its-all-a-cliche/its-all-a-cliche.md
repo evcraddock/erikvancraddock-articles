@@ -1,7 +1,7 @@
 ---
 id: 5ac44e111b0b90003a6e4b04
 title: It’s All A Cliche
-url: its-all-a-cliche.md
+url: its-all-a-cliche
 images: []
 banner: ""
 publishDate: 02/13/2013

@@ -1,7 +1,7 @@
 ---
 id: 5ac582e01b0b90003a6e4b73
 title: Youthful Creativity
-url: youthful-creativity.md
+url: youthful-creativity
 images:
 - butch-meany.jpg
 banner: butch-meany.jpg

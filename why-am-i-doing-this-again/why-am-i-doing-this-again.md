@@ -1,7 +1,7 @@
 ---
 id: 5ac582e01b0b90003a6e4b6c
 title: Why am I doing this again?
-url: why-am-i-doing-this-again.md
+url: why-am-i-doing-this-again
 images: []
 banner: ""
 publishDate: 03/20/2009

@@ -1,7 +1,7 @@
 ---
 id: 5ac44b111b0b90003a6e4a9d
 title: Year in Review for 2015
-url: 2015-year-in-review.md
+url: 2015-year-in-review
 images:
 - 2015-Yearend.jpg
 banner: 2015-Yearend.jpg

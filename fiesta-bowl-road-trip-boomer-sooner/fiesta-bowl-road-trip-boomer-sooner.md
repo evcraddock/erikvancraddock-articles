@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1c1b0b90003a6e4ac2
 title: Fiesta Bowl Road Trip – Boomer Sooner!
-url: fiesta-bowl-road-trip-boomer-sooner.md
+url: fiesta-bowl-road-trip-boomer-sooner
 images:
 - fiesta-bowl-2011.jpg
 banner: fiesta-bowl-2011.jpg
@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-
 For what felt like the first time in awhile during our Fiesta Bowl road trip, I woke up and everything was perfect. I took a shower and headed down to the hotel restaurant for breakfast and was greeted by several hotel guests donning Crimson and Cream. I was greeted on several occasions with a loud &#8220;BOOMER&#8221; which I of course replied with an equally loud &#8220;SOONER&#8221;. Everyone seemed as excited as we were. There were also Connecticut Husky fans who were very nice and even what I might describe as humble. They seemed happy to just be going to a BCS bowl. I found myself reminding them of our recent travails at the Fiesta bowl against lesser teams than Connecticut. Honestly though, I felt pretty confident that we would come home winners.
 
 It was early and we had the whole day to kill until the game started at 7 PM. The area next to the University of Phoenix stadium had all kinds of gift shops, clothing stores, restaurants and you name it. There was a big stage where live music was to be performed and would soon be crawling with football fans. We couldn&#8217;t wait, but unfortunately we had to. They weren&#8217;t letting anyone park until 12:30. So what did we do in the meantime? We went on a mission of course.

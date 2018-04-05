@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1d1b0b90003a6e4ade
 title: Grandma and the Rolltop Desk
-url: grandma-and-the-rolltop-desk.md
+url: grandma-and-the-rolltop-desk
 images:
 - grandmas-family.jpg
 banner: grandmas-family.jpg

@@ -1,7 +1,7 @@
 ---
 id: 5ac582381b0b90003a6e4b18
 title: Not smoking sux
-url: not-smoking-sux.md
+url: not-smoking-sux
 images: []
 banner: ""
 publishDate: 03/25/2009

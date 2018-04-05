@@ -1,7 +1,7 @@
 ---
 id: 5ac582df1b0b90003a6e4b62
 title: Up in the air
-url: up-in-the-air.md
+url: up-in-the-air
 images:
 - up-in-the-air.jpg
 banner: up-in-the-air.jpg

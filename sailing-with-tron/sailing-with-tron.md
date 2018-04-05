@@ -1,7 +1,7 @@
 ---
 id: 5ac5823a1b0b90003a6e4b3b
 title: Sailing with Tron
-url: sailing-with-tron.md
+url: sailing-with-tron
 images:
 - captain-tron.jpg
 - sailing-rocks.jpg

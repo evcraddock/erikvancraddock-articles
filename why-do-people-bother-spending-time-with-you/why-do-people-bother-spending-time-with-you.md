@@ -1,7 +1,7 @@
 ---
 id: 5ac582e01b0b90003a6e4b6d
 title: Why do people bother spending time with you?
-url: why-do-people-bother-spending-time-with-you.md
+url: why-do-people-bother-spending-time-with-you
 images:
 - spending-time.png
 banner: spending-time.png

@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1e1b0b90003a6e4ae7
 title: Build Habits with Google Forms
-url: how-to-build-habits-with-google-forms.md
+url: how-to-build-habits-with-google-forms
 images:
 - Go-to-live-form.png
 - Create-Form.png

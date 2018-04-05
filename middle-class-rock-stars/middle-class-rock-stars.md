@@ -1,7 +1,7 @@
 ---
 id: 5ac582371b0b90003a6e4b11
 title: Middle Class Rock Stars
-url: middle-class-rock-stars.md
+url: middle-class-rock-stars
 images:
 - hero.jpg
 banner: hero.jpg

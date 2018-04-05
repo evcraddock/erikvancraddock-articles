@@ -1,7 +1,7 @@
 ---
 id: 5ac5823a1b0b90003a6e4b4b
 title: The Ball and Chain of Experience
-url: the-ball-and-chain-of-experience.md
+url: the-ball-and-chain-of-experience
 images:
 - Elevator-Store.jpg
 banner: Elevator-Store.jpg

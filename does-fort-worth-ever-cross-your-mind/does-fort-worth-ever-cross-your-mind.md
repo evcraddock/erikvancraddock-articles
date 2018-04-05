@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1b1b0b90003a6e4abf
 title: Does Fort Worth Ever Cross Your Mind?
-url: does-fort-worth-ever-cross-your-mind.md
+url: does-fort-worth-ever-cross-your-mind
 images:
 - fortworthskyline.jpg
 banner: fortworthskyline.jpg

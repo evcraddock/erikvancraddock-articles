@@ -1,7 +1,7 @@
 ---
 id: 5ac44b1c1b0b90003a6e4acb
 title: Fiesta Bowl Road Trip – New Years Eve
-url: fiesta-bowl-road-trip-new-years-eve.md
+url: fiesta-bowl-road-trip-new-years-eve
 images:
 - with-care.jpg
 banner: with-care.jpg

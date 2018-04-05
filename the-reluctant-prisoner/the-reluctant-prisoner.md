@@ -1,7 +1,7 @@
 ---
 id: 5ac582de1b0b90003a6e4b57
 title: The Reluctant Prisoner
-url: the-reluctant-prisoner.md
+url: the-reluctant-prisoner
 images:
 - prisoner.jpg
 banner: prisoner.jpg
