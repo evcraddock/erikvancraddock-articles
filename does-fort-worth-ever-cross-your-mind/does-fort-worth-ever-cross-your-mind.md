@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-
 <span style="font-weight: 400;">As I fly over DFW airport, I can see downtown Fort Worth in the distance. I have 13 years worth of memories there that are surprisingly happy considering how eager I was to leave. I guess it is hard to fully appreciate something while you are experiencing it. The tendency, at least for me, is to move forward. I have been in pursuit of some ambitious goal ever since I was a boy. It is virtually impossible to look back while you are going full steam ahead. But the older I get the more I find myself reminiscing. </span>
 
 <span style="font-weight: 400;">I think that ambition is one of the things that separate the young from the old. Young men have a drive to succeed, usually out of necessity, that their elders can’t match. Sorry ladies but I only feel qualified to stereotype men, so don’t be offended if I leave you out. As a young man, I would try to brute force life until it either worked out for me or broke. I either got the knowledge, the job, the girl or there was a restraining order.  Thankfully I’ve matured a little bit over the years. I learned to rely less on bravado and more on experience and intelligence. Ironically most of that experience wouldn’t have been possible without youthful bravado.</span>

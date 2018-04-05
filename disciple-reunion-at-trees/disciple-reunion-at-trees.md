@@ -12,7 +12,6 @@ categories:
 - music
 tags: []
 ---
-
 It&#8217;s not often that Linda and I have a night without the kids so having a full weekend to do what we pleased felt very foreign indeed. This all came about thanks to a late 80&#8217;s metal band. Let me explain.
 
 For Christmas, instead of adding to the ever increasing pile of toys, trinkets and equipment in Drew&#8217;s room, we decided to give him three months of Drum lessons. I scoured the internet looking for the best instructor I could find that wasn&#8217;t too far away. Eventually with the aid of a music instruction head hunting company I found the perfect drum instructor. I think Drew was a bit disappointed at the time because there really wasn&#8217;t anything for him to open. He basically received a card that informed him of the gift. However, it didn&#8217;t take long before his opinion changed drastically. Drew is taking to drums like a fish to water with a lot of the credit going to his instructor Scott Rainey.

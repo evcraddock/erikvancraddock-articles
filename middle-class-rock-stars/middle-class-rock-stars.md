@@ -12,7 +12,6 @@ categories:
 - ideas
 tags: []
 ---
-  
 How many of you would make a donation to my personal bank account in exchange for my behaving in a manner that amused, entertained or was otherwise interesting? I could just behave erratically by doing or saying things inappropriate to my surroundings. We could even take the show on the road, I could travel around just being eccentric. Of course you would all need to pay for this. I, off course, would record each moment and make it available to subscribers for their vicarious  living pleasure.
 
 As I&#8217;m sure you are well aware, this job already exists and most of us have subscriptions to multiple eccentric lives.  We call them celebrities and they come in various flavors. In fact, we can&#8217;t get enough of them. These people live lifestyles that we can only dream of: huge mansions,  luxury vehicles, exotic toys, lives of leisure and the adoration of millions. How many little boys grow up idolizing a star baseball, basketball or football player? How many little girls sing into the mirror pretending to be the latest pop queen? Don&#8217;t kid yourself and think that this type of behavior wanes as we reach adulthood. Our heroes change but we all have them. Dreams of grandeur are all that some of us have to keep us looking past the &#8220;drudgery&#8221; that is our lives.

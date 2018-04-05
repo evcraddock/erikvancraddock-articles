@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 After spending a few days in Yellowstone, it was time to head home. We decided to take a different route back in order to see more of the American west. We exited Yellowstone via the east entrance and took highway 16 to Cody, Wy. We continued on highway 16 with a little trepidation through the Bighorn mountains. We had read reports of sharp curves and steep roads that might tax the breaks. Losing your breaks on a 10% decline is the last thing you want in a 35 foot RV. However, after surviving dirt roads at the top of the Grand Tetons we felt we could handle anything and it turned out to be a non issue. At Greybull we took highway 14 over to I90 and entered Sheridan, Wy the home of the world famous Peter D&#8217;s RV Park.
 
 Before reaching Sheridan, we browsed around the internet looking for a good place to spend the night. Peter D&#8217;s was highly recommend by all visitors. We couldn&#8217;t find a bad review of the place. Sure enough the RV park was ideal. It was easy to access, quiet and extremely clean. It was almost too clean, at least once an employee waited for me to finish using the restroom so that he could clean it. Peter D himself was a very friendly old man that seemed to exist solely to help his customers. This park became the model that we would compare all other locations with.

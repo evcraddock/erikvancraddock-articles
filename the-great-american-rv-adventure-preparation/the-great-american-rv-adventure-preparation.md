@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 The terrain of the United States is a complete wonder to me. The aesthetic difference of the east coast from the west and everything in between is like night and day. It varies so much that it is hard to believe that it is all part of the same country. I believe it to be true that we are in part products of our environment. My upbringing in a small peanut and cotton farming community has vastly shaped my view of the world. I can only assume that this is true of everyone.
 
 I spent the last ten days visiting a small section of the country. I have returned amazed that we have even as much in common as we do. I found myself asking over and over again &#8220;Could I be happy here with&#8230;&#8221; (insert unique geographical attribute). When I met people I couldn&#8217;t help but try to imagine them living in Caddo county. Sometimes it was more plausible than others. It didn&#8217;t take much effort in Kansas.  However, the people who spent the winter in West Yellowstone, Mt might have found Binger a bit stifling.

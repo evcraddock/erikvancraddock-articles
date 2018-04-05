@@ -13,7 +13,6 @@ categories:
 tags:
 - productivity
 ---
-
 I think that it’s possible to meet good people online without feeling like a creep and with very little risk. I think that the key to making friends online is by spending time with them offline. Conventional knowledge tells us that meeting people in person that we met on the Internet is a bad idea and potentially dangerous. I believe that I know how to solve that problem. Below are my ideas for using the Internet to safely meet people who are worth friendship.
 
 As [I have mentioned in the past](/2016/03/how-we-meet-people/), typically when we meet people, it is because we share an interest or a situation. This is the key. Any system that helps people meet will revolve around the events that they have in common. In order to manage the quality of the people we meet, we must manage the events where we meet them. 

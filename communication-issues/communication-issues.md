@@ -12,7 +12,6 @@ categories:
 - ideas
 tags: []
 ---
-
 Have you ever known someone so well that you could complete their sentences? With some people there is hardly a need for verbal communication at all. Half the time, my wife knows what I’m feeling better than I do based solely on my posture and facial expressions. Our biggest communication issues come from the fact that she knows me too well. She likes to anticipate what I’m going to say. Often she will ignore what I actually say and instead answer the question I should have asked. I tend to get bent out of shape over it but the frustrating part is that she is usually right. We know each other so well that we have developed a kind of specialized pseudo language. It consists mostly of looks, movie quotes and partial or half spelled words etc.
 
 Different situations demand different types of communication.These days many alternative methods of communications are sprouting up. Cumbersome keyboards on cell phones and character limits on SMS messages cause proper English to be impractical for text messaging. Text based communications in multi-user video games are by necessity hurried. You will most likely be “ganked” by other players or slaughtered by magical creatures long before you can choose the proper verb conjugation.

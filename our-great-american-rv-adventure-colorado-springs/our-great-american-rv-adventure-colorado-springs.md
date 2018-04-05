@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 The weather in Oklahoma and Texas leading up to our trip had been blistering hot. It was not at all uncommon for the temperature to reach 110 degrees. When we heard that it would almost certainly rain before we reached Colorado Springs most everyone rejoiced. However, when I looked over at dad he had no expression on his face at all. I asked &#8220;Do you think rain will be an issue?&#8221;. He quietly replied that he had never driven the RV in the elements but was more worried about the wind than the rain. Now that he mentioned it, the trees we passed did seem to be getting whipped around quite a bit. Dad put on a show of confidence but admitted later that he expected a gust to all but topple us over at any moment.
 
 We finally arrived at our destination, a little late but all in one piece. Most of our passengers were none the wiser of any cause for concern. The Garden of the Gods RV park was like a little city. It was pretty nice but a bit crowded. The people were nice though and the bathrooms clean. We slept well after a long day of travel.

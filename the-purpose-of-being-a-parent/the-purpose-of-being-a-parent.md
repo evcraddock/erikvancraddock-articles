@@ -5,7 +5,7 @@ url: the-purpose-of-being-a-parent
 images:
 - Parents_Children.jpg
 banner: Parents_Children.jpg
-publishDate: 04/05/2018
+publishDate: 11/15/2015
 dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-purpose-of-being-a-parent/the-purpose-of-being-a-parent.md
 author: Erik Craddock
 categories:

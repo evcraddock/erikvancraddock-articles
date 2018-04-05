@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 After a full week of sitting at home due to snow days, life returned to some semblance or normalcy today. At this time last week the sleet was already beating down on my roof. I always work from the home office on Tuesdays but it was pretty apparent that none of us would be leaving the house the next day. This proved to be true for the rest of the week.
 
 I did venture out on Thursday mostly due to cabin fever. I drug Drew along with me to Best Buy and Walmart. Yes, its true, I broke my promise to never set foot in Best Buy again. My mouse had went out and I wasn&#8217;t satisfied with the selection at Walmart. Also it was too dangerous to trek around the city with the roads being as they were, so I bit my tongue and went to the Best Buy right down the street from me. I guess I wasn&#8217;t the only one wanting to get out of the house as Walmart was absolutely packed.

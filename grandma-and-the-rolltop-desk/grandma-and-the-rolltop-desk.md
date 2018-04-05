@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-
 My hands slipped and the heavy desk slammed into my face. It’s free fall to the concrete was impeded only by this and a knee which is now bruised scarlet. I did manage to save the desk from harm. My face took the brunt of the damage. I stood there frowning as I looked at a split lip in the mirror and felt thankful. For one thing, I was physically capable of standing. I was also able to treat my own wounds and curse loudly as I had just proven. The desk was my grandmothers and she isn’t able to do any of those things. My parents and I spent the majority of last Saturday moving her furniture to storage. As I tried to decide whether or not to risk a little blood shaving over the wound, my grandmother was laid up in a rest home barely able to move.
 
 Three years ago, grandma had a stroke while undergoing surgery. She had developed an aneurysm which required immediate attention. During the procedure there was a blood clot or something to that effect and the unthinkable happened. When it was all over, she was rendered almost helpless. This woman who always had some kind of answer for everything could now only mutter few words like yes, no and ok. She lost the use of her right arm rendering her writing hand useless. Eventually she was able to walk around enough to get to a bathroom or head down the hall with difficulty. Her mind on the other hand seemed completely unmolested, at least at first.

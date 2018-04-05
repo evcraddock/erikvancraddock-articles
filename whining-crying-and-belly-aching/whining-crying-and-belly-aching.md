@@ -12,7 +12,6 @@ categories:
 - ideas
 tags: []
 ---
-
 Is there anything worse than a whining, sniffling, belly aching kid? I think not. Sometimes, It seems like it’s all my kids do. We hear such long suffering complaints as “Vegetables are gross, WAH”, or “I don’t want to do my chores, WAH, WAH”. And my personal favorite, “Why me?, WAH, WAH, WAH”. It seems to go on and on forever. It’s enough to drive a person crazy. It’s no consolation but my kids are not alone. From what I’ve seen, incessant whining is a skill in which nearly every child excels.
 
 Where and how do kids learn this constant complaining? Do they attend secret bitch and moan classes behind our backs? Obviously they get it somewhere. As Linda and I were discussing this very topic the other night it hit me like a ton of bricks. They learned it from me! The truth was so obvious. I was dumbstruck. Unbelievably, this had never occurred to me before. They are indeed learning in secret bitch and moan sessions and I am the maestro.

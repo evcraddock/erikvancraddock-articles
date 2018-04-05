@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 Driving through Wyoming is like touring a spaghetti western movie. At any moment I expected traditionally dressed Arapaho to come riding out on horseback. Dylan and Drew peered out the window, one of them exclaimed &#8220;this looks like Red Dead Redemption&#8221;. This truly was a perfect picture of how I have always envisioned the Old West high plains. This describes most of the terrain of Wyoming, that is until one reaches the mountains.
 
 We entered Yellowstone National Park from the southern entrance which took us first through Grand Teton National Park. This was our first real experience driving through the mountains in an RV. From where I was sitting, the RV looked too wide to co-exist on the road with other cars. Every time we passed another motor home I was sure there would be a collision with one of us rolling down the mountain. At one point on the drive in there was construction on the road. So here we are in a 35 foot long RV. It seemed as wide as two lanes. We were towing an SUV while driving on a dirt road on the side of a mountain at somewhere around 8000 feet above sea level.

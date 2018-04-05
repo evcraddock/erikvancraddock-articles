@@ -16,7 +16,6 @@ tags:
 - goals
 - plans
 ---
-
 <span style="font-weight: 400;">When it came time to [review how things went in 2015](/2015/12/30/2015-year-in-review/), I had a hard time. I had nothing to work with because I did not set any goals and plans at the beginning of the year. The only valuable thing I was able to do was list out the areas where I did not do so well. This year will be different. [I have set a number of goals](/2016/01/24/how-to-use-goals/) and plans for myself.  At the end of the year, I will be able to compare my goals and plans with what I actually achieved.  This time next year, I should be able to look back and see how I did.</span>
 
 Earlier, I jotted down a few of the [mistakes I made last year](/2015/12/30/2015-year-in-review/). I believe that I can avoid most of these by looking ahead and planning. One of the problems I had was allowing myself to get over extended. I started too many different major projects without completing them. I am going to remedy this by committing to fewer projects this coming year. I will also not allow myself to abandon a project so easily. I will only let myself change a goal once a quarter and only if there is a compelling reason. If I do decide to back out, I will write about it here. This will allow someone to call bullshit if it is not for a good reason.

@@ -13,10 +13,7 @@ categories:
 tags:
 - productivity
 ---
-
-
 ## Year in Review summary
-
 <span style="font-weight: 400;">In an effort to improve my life, I am publishing a year in review for 2015. Since I didn’t set any goals last year, it is a bit hard to grade my progress. So, before the year is over, I intend to set a few goals on what I want to improve next year. But first, I think it would help to summarize how i think things went in 2015. </span>
 
 This past year has been one of the strangest of my life. I had a few bad months that were some of the most difficult of my life. We dealt with some medical issues that nearly ruined everything. But I was also able to find the perfect job and in the end, both Linda and I are in the best shape of our adult lives.

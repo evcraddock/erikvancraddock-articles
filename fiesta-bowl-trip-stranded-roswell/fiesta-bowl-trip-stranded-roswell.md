@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 **In case you missed it here is the story of the [first day of our trip](/2011/01/fiesta-bowl-road-trip-day-one/) to Glendale Arizona for the Fiesta Bowl.**
 
 I woke up Friday morning worried and exhausted after enduring nightmares of our party stranded in the mountains, snowed in with a vehicle that would only travel 2 miles an hour. I was both thankful and terrified once I realized that we were still in Roswell and not about to endure a frigid winter that was sure to end in cannibalism and other unspeakable atrocities. On the other hand, we would probably spend New Years in alien country.

@@ -12,7 +12,6 @@ categories:
 - ideas
 tags: []
 ---
-
 Children are unburdened by the ball and chain of experience. They typically see the world for what it is and it isn’t nearly as complicated as we adults seem to think. For example, my youngest son is almost four years old, he has a mind like a trap. He has very concrete expectations for life. He wants to eat when he is hungry and drink when thirsty. Mostly, he wants to play. He is on a continual quest for anything new; new games, new friends and new words. Each offers him new opportunities to play. When there is somewhere to go he wants to tag along. His prime directive is to have fun. He faces down any act of fun repression with fierce opposition.
 
 The boy looks at the world as his personal playground. The different pieces of equipment on the playground are all there solely for his enjoyment. He associates the places he goes with their purpose. More specifically, he associates them with his purpose for going there. When we go to the mall, it isn’t for shopping. We are there to ride the escalator. So of course the mall is the Escalator Store. Twice a week he attends a kiddy martial arts class. He has dubbed it the Fight Store because it’s where he goes to fight. There is also the Haircut store, the Jump store (gym), several Food stores and many more Stores both identified and yet to be discovered. If he had his way he’d play in every store or piece of the playground simultaneously all of the time. He has a hard time envisioning a world where he doesn’t get his way.

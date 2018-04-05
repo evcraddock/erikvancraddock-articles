@@ -12,7 +12,6 @@ categories:
 - ideas
 tags: []
 ---
-
 Kids naturally learn. It’s what they do. In the dictionary it should describe children as “Small humans who obtain knowledge at dizzying speeds with the express intent of driving their parents insane”.
 
 As parents, our concern is what they are learning from whom. Our hope is that they are being influenced by parents, teachers, and coaches etc. The truth is that they are primarily influenced by video games, YouTube videos and their friends, mostly their friends. It is possibly even better that way.

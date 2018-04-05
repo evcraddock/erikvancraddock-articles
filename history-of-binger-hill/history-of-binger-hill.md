@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-
 I was raised to respect my last name. I was taught to be proud of who we are and where we came from. When I was a kid, I thought that I was a member of a secret society. There was a strong sense of family. Being a part of it meant that you would never be alone. We loved each other and still do. I believed that if you shared my blood line then you were a step above. You got any benefit of the doubt. We treated each other like royalty. This honor did not come without demands. I definitely felt that I had a lot to live up to.
 
 For me, as a child, everything began on Binger hill. As far as I was concerned life on earth began there with my grandpa Van and grandma Lucille. They were Adam and Eve and the hill was our Eden. I’ve since learned that our history is much older and more distinguished. We have had many proud moments as well as some we’d rather forget. We can trace our family to back before the revolutionary war. Although I can’t confirm it, we even appear to have an ancestor who lived in the original Jamestown colony. It’s not a secret that I am very proud of my family. I have so many great memories. Most of them happened up on that hill. I couldn’t possibly tell them all.

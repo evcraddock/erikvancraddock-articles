@@ -14,7 +14,6 @@ categories:
 tags:
 - plan
 ---
-
 Much of the time, we set ourselves up for failure. We set goals in order to please someone else. We plan for things that we aren’t ready to tackle. We try to do too much. These are recipes for failure. If you are going to set goals, make sure that they are achievable. Spend some time figuring out what you need to do. Determine what success looks like and make plans. Otherwise you are likely to fail.
 
 Setting goals is the process of identifying the things that you want to do. Planning is the process of managing the things that you want to do. If you are anything like me, you have way more that you want to do than time to do it. If you are not careful, you’ll try to start working on everything and end up finishing nothing. Of course the answer is to plan. This is how I manage the things that I want to do.

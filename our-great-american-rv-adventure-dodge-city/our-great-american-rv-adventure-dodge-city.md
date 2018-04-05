@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-  
 Day one of our trip to see Yellowstone had finally arrived. We could not have been more excited. Linda, Drew, Ethan and I arrived at my parents house in Anadarko, Ok on Sunday just in time for lunch. Dad and I began pre-departure inspections and were immediately faced with a dead main battery. We were able to get it started with a jump and after some fiddling determined that everything was fine. Next we climbed on top of the vehicle in the blistering heat and cleaned out the air conditioning system filters. Everything checked out great. The only thing left to do was attach the tow dolly and hook up mom&#8217;s Kia Serento. This would allow us to pull out early the next morning and head to Wichita. Not everything works out as you plan.
 
 Dad pulled the RV up as close to the road as he could as I pulled the tow dolly up to the rear. I hooked up the dolly and dad drove the Serento up on it. Now it was time to secure the vehicle with tow dolly straps, except our straps were too small. We loosened them as much as possible but it wasn&#8217;t enough. I began calling everywhere I could think that might have larger straps. Half the places I called were closed on a Sunday afternoon. Although it would mess up our time, we decided that we would just have to wait until after businesses opened up the next morning.

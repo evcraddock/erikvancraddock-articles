@@ -13,7 +13,6 @@ categories:
 tags:
 - books
 ---
-
 Hello, my name is Erik and I am a bibliophile. I have a serious reading problem. I have read countless books, both fiction and nonfiction. I read blogs, news articles, wikipedia entries and comics. I read product reviews on shopping websites. I read the biographies of people I admire or want to emulate. I read about music and on other topics that I desire improved skills. I can easily lose a full day when I run across something new and interesting. I easily spend six hours on any given day reading. I tend to obsess on the same topic for months on end before moving on to a new one.
 
 I’ve read books about self improvement, physics, marketing and leadership. I’ve devoured books on every religion you’ve ever heard of and some you haven’t. I have studied the oil industry, the history of money and trade, and real estate sales strategies. I’ve read books about the history, language and culture of people who speak Arabic, Farsi, Chinese, Japanese, Greek, Italian, German, French, Spanish, Welsh and English to name a few. And that is only nonfiction.

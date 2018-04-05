@@ -13,7 +13,6 @@ categories:
 - music
 tags: []
 ---
-
 When I was young, the music that I was allowed to listen to was strictly limited by my parents. Any music purchases must first go through an approval process. The cover art was the first obstacle. My mother would look over the tape cover with a suspicious eye. Anything with pictures of demons, drugs,  or violence was out. Anything that might otherwise suggest the devil’s handiwork would quickly get put back on the shelf. The same held true for any slight suggestion of sexuality. It’s not hard to imagine how many titles were restricted for this rock n roll fan in the early 80’s. Next, the song titles were scrutinized. The same rules applied as with the cover art; no drugs, sex, demons or violence. It was harder for her to check the lyrics. That is until that damnable woman Tipper Gore convinced the record labels to put a big black label on the album that said “EXPLICIT LYRICS”. Those two words were the purchasing death nail of many albums I desired. On rare occasion, I was able to sneak something through that wasn’t entirely squeaky clean. Once I was finally permitted to purchase an album it became a treasured possession. By the time I was a teenager with a job, I bought whatever I wanted and learned to hide my treasures. When this became the norm, the approval process was turned on its head. I actively sought out many of those Explicit Lyrics labeled albums. My album collection became a representation of me and how I viewed myself, instead of the idealized version of me that my mother wanted.
 
 <h3 dir="ltr">

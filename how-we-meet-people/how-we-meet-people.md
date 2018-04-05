@@ -15,9 +15,7 @@ tags:
 - meet people
 - social media
 ---
-
 ## Did Facebook do us a favor?
-
 It’s been said that social media websites, like Facebook, are ruining social interactions. I have always been of the opinion that these websites make it easy to know enough about your friends so that you never need to speak to them again. Usually, when I see a friend we discuss what happened since we saw each other last. That is hardly necessary when you are kept informed in real time of their day to day experiences. On top of that, it’s not unusual to learn that you really don’t have much in common with your friends. Or that honestly, you don’t like them. There is something about an open forum that brings out the worst in people.
 
 But maybe, social media websites just brought out in the open a problem that we’ve always had but never noticed. Maybe, those friends that we only interact with on Twitter aren’t really our friends. Maybe, that buddy with the radical political opinion just doesn’t have the nerve to bring it up in person. Would that make him any less of a tool? Maybe, Facebook did us a favor.

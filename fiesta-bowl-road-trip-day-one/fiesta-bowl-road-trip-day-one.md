@@ -12,7 +12,6 @@ categories:
 - family
 tags: []
 ---
-
 There is nothing quite like a road trip across open country to clear your mind, open your eyes to the beauty of the world and test your patience with your travelling companions as well as your fellow occupants of the road.
 
 After learning that a high school class mate of mine had tickets to the Fiesta Bowl for sale, I decided that I would use the remainder of my vacation time to take a trip to Glendale, Arizona and watch the Sooners redeem themselves from their recent BCS Bowl game slump. It was a perfect opportunity to take Linda and Drew on a cross country trip. Neither had been to an Oklahoma Sooner football game and the Fiesta Bowl seemed like a great place to start. As it turns out the game was only a small episode in a larger adventure that I&#8217;m sure we&#8217;ll all remember for quite awhile.
