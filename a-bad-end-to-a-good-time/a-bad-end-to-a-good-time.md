@@ -1,4 +1,5 @@
 ---
+id: 5ac44b171b0b90003a6e4aa3
 title: A Bad End to a Good Time
 url: a-bad-end-to-a-good-time.md
 images: []

@@ -1,4 +1,5 @@
 ---
+id: 5ac44b1d1b0b90003a6e4ae1
 title: History of Binger Hill
 url: history-of-binger-hill.md
 images:

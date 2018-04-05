@@ -1,4 +1,5 @@
 ---
+id: 5ac44b1b1b0b90003a6e4ab5
 title: Chili, beer and music at the Lanier’s
 url: chili-beer-and-music-at-the-laniers.md
 images: []

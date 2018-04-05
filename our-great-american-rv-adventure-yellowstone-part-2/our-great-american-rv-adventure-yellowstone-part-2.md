@@ -1,4 +1,5 @@
 ---
+id: 5ac582391b0b90003a6e4b2b
 title: Yellowstone (part 2) – Our Great American RV Adventure
 url: our-great-american-rv-adventure-yellowstone-part-2.md
 images:

@@ -1,4 +1,5 @@
 ---
+id: 5ac5823a1b0b90003a6e4b40
 title: Snow Days Survived
 url: snow-days-survived.md
 images:

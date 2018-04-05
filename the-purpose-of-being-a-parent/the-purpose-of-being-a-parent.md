@@ -1,12 +1,12 @@
 ---
-id: 5a381298b35773003a9df0aa
+id: 5ac582de1b0b90003a6e4b54
 title: The Purpose of being a Parent
 url: the-purpose-of-being-a-parent
 images:
 - Parents_Children.jpg
 banner: Parents_Children.jpg
-publishDate: 11/18/2015
-dataSource: /home/erik/code/articles/the-purpose-of-being-a-parent/the-purpose-of-being-a-parent.md
+date: 04/05/2018
+dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-purpose-of-being-a-parent/the-purpose-of-being-a-parent.md
 author: Erik Craddock
 categories:
 - family

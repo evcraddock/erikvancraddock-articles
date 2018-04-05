@@ -1,4 +1,5 @@
 ---
+id: 5ac5823a1b0b90003a6e4b3b
 title: Sailing with Tron
 url: sailing-with-tron.md
 images:
@@ -10,7 +11,7 @@ dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/sailing-with-t
 author: erik
 categories:
 - family
-tags: 
+tags:
 - sailing
 ---
 **6:15 AM :** Rise and shine&#8230; er sort of. Drew awakens reluctantly

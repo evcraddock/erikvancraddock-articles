@@ -1,4 +1,5 @@
 ---
+id: 5ac44b1d1b0b90003a6e4ad8
 title: Football Camp
 url: football-camp.md
 images:

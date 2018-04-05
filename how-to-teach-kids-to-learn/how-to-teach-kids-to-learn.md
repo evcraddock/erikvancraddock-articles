@@ -1,4 +1,5 @@
 ---
+id: 5ac44b1f1b0b90003a6e4af3
 title: How to Teach Kids to Learn
 url: how-to-teach-kids-to-learn.md
 images:

@@ -1,4 +1,5 @@
 ---
+id: 5ac44b1f1b0b90003a6e4af6
 title: How to Use Goals
 url: how-to-use-goals.md
 images:

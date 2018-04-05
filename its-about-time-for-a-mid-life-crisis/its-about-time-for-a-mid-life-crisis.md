@@ -1,4 +1,5 @@
 ---
+id: 5ac44e101b0b90003a6e4aff
 title: It’s about time for a mid life crisis
 url: its-about-time-for-a-mid-life-crisis.md
 images:

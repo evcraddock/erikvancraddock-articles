@@ -1,4 +1,5 @@
 ---
+id: 5ac44b1d1b0b90003a6e4adb
 title: Goals and Plans for 2016
 url: goals-and-plans-2016.md
 images:

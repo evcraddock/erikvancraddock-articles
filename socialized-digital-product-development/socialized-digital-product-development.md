@@ -1,4 +1,5 @@
 ---
+id: 5ac5823a1b0b90003a6e4b48
 title: Socialized Digital Product Development
 url: socialized-digital-product-development.md
 images:

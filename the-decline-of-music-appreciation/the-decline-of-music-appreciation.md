@@ -1,4 +1,5 @@
 ---
+id: 5ac5823b1b0b90003a6e4b4e
 title: The Decline of Music Appreciation
 url: the-decline-of-music-appreciation.md
 images:
