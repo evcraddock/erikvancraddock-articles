@@ -36,6 +36,4 @@ As suddenly as it started the wind died down. We were again sitting in the middl
 
 Thanks Nathan
 
-<div class="separator" style="clear: both; text-align: center;">
-  <img src="/images/sailing-rocks.jpg"  border="0" /></a>
-</div>
+<img src="{imageservice}/sailing-rocks.jpg"  border="0" width="300" />
