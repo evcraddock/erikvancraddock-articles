@@ -1,16 +1,16 @@
 ---
-id: 5ac5823a1b0b90003a6e4b48
+id: 5bbfab040437ba00097b79f6
 title: Socialized Digital Product Development
 url: socialized-digital-product-development
+banner: social-digital.jpg
 images:
 - social-digital.jpg
-banner: social-digital.jpg
 publishDate: 05/04/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/socialized-digital-product-development/socialized-digital-product-development.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Digital products have a serious flaw, they are infinitely reproducible. Copies can be created in moments at no expense. These copies can be shared indiscriminately. Technology has simplified the process of creating music, books, video, software and just about any product that can be digitized. It is possible for nearly anyone to be an author, musician, director, composer, software developer to name a few. Everything you need to know is freely available on the Internet. It seems like everyone considers themselves an artist. The public has no shortage of choices and as expected the price of digital content has dropped significantly in recent years.
 

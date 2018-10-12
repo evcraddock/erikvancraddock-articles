@@ -1,17 +1,17 @@
 ---
-id: 5ac582df1b0b90003a6e4b68
+id: 5bbfab0a0437ba00097b7a00
 title: Who Is Otis Ray?
 url: who-is-otis-ray
+banner: Odis-and-Otis-Ray.png
 images:
 - Odis-and-Otis-Ray.png
-banner: Odis-and-Otis-Ray.png
 publishDate: 11/27/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/who-is-otis-ray/who-is-otis-ray.md
 author: erik
 categories:
 - family
 - music
 tags: []
+layout: ""
 ---
 Some things quite clearly belong in this world. They come to us in a variety of different packages. We have experienced them at some point with all of our senses. They are easy to identify. When you see them, even for the first time, it is familiar. The taste and smell is pleasant. You could swear that you’ve heard them before. It just feels right. That is how I perceive art.
 

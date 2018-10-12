@@ -1,16 +1,16 @@
 ---
-id: 5ac582371b0b90003a6e4b14
+id: 5bbfaafb0437ba00097b79e9
 title: My History with Music
 url: my-history-with-music
+banner: first-guitar.jpg
 images:
 - first-guitar.jpg
-banner: first-guitar.jpg
 publishDate: 04/26/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/my-history-with-music/my-history-with-music.md
 author: erik
 categories:
 - music
 tags: []
+layout: ""
 ---
 My History with Music nearly ended twenty years ago when I decided to throw my lot in with the working folks. After high school I decided that college was a waste of not only my time but my parents money. I knew for a fact that I would shrug off class and spend all of my time in more lively pursuits. I figured I could do that without the pretense of school. As ridiculous as it sounds, I thought I was being responsible. Not going to college turned out to be one of the smartest decisions I made as a teenager. I followed it up with one of my worst, I joined the Air Force.
 

@@ -1,16 +1,16 @@
 ---
-id: 5ac453261b0b90003a6e4b08
+id: 5bbfaaf90437ba00097b79e7
 title: Meta book Reviews
 url: metabook-reviews
+banner: book-review.jpg
 images:
 - book-review.jpg
-banner: book-review.jpg
 publishDate: 05/06/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/metabook-reviews/metabook-reviews.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Is there such a thing as a book review that sticks to the facts? I&#8217;m sick of reading opinionated reviews that focus on special circumstances. Satisfaction with what we read depends upon our motives. Our current situation and mood dictates our ability to enjoy anything that we do. Many book reviews do nothing more than recommend or discourage reading a particular title with very little reasoning. Half the time owners of bad reviews openly admit to not even finishing the book. It is impossible to offer a completely objective opinion. Our experiences , current and past, always cloud our opinions. This is not necessarily a bad thing. It does limit the usefulness of a book review down to those reviewers whom we share something in common and respect.
 

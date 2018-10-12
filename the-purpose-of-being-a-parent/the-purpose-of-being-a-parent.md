@@ -1,18 +1,18 @@
 ---
-id: 5ac582de1b0b90003a6e4b54
+id: 5bbfab060437ba00097b79fa
 title: The Purpose of being a Parent
 url: the-purpose-of-being-a-parent
+banner: Parents_Children.jpg
 images:
 - Parents_Children.jpg
-banner: Parents_Children.jpg
 publishDate: 11/15/2015
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-purpose-of-being-a-parent/the-purpose-of-being-a-parent.md
 author: Erik Craddock
 categories:
 - family
 - ideas
 tags:
 - kids
+layout: ""
 ---
 When I was seventeen my father confessed, “Hey, I’ve never done this before. We are practicing on you.”. I think every parent on earth feels that way. We really have no idea what we are doing. Most of us are dealing with issues as they come by the seat of our pants. Even worse, the rules keep changing. And it doesn’t really matter how much experience or how many kids you have. The biggest mistake a parent can make is to expect what worked with one child to work on another. Being a parent is just hard.
 

@@ -1,18 +1,18 @@
 ---
-id: 5ac44b171b0b90003a6e4aa4
+id: 5bbfaae60437ba00097b79c8
 title: An Overview of Getting Things Done – Lists
 url: an-overview-of-getting-things-done-lists
+banner: gtd-list.jpg
 images:
 - gtd-list.jpg
-banner: gtd-list.jpg
 publishDate: 07/29/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/an-overview-of-getting-things-done-lists/an-overview-of-getting-things-done-lists.md
 author: erik
 categories:
 - book review
 - work
 tags:
 - gtd
+layout: ""
 ---
 Getting Things Done is a task management system created by David Allen. Its purpose is to establish a framework for tracking tasks so that all necessary resources are available when and where they are needed. A primary focus is to ensure that the system can be trusted as the one source of anything that needs to be done. This is an overview of the system from my own point of view. This overview is derived from the knowledge I gained from reading the book and implementing it in my life. I highly recommend that you purchase and read the book [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/B007J5D4QQ/ref=sr_1_3?ie=UTF8&qid=1471890232&sr=8-3&keywords=getting+things+done). It is the definitive source for the processes and procedures of Mr. Allen’s system.
 

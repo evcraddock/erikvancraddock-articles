@@ -1,15 +1,15 @@
 ---
-id: 5ac44b171b0b90003a6e4aa3
+id: 5bbfaae60437ba00097b79c7
 title: A Bad End to a Good Time
 url: a-bad-end-to-a-good-time
-images: []
 banner: ""
+images: []
 publishDate: 10/24/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/a-bad-end-to-a-good-time/a-bad-end-to-a-good-time.md
 author: erik
 categories:
 - music
 tags: []
+layout: ""
 ---
 Rodney Craddock and I have been recording music together almost constantly since [I visited his place](/2012/09/05/a-3-year-old-storm-hit-montgomery-tx/) a few months ago. While I was there, we threw our first song together in pretty much one day. We wrote the song and recorded all of his parts while I was at his house. We turned on the video camera. We recorded as we played and Rodney used that footage to create a video. After I got home, I finished things up. The result was a little tune about my dog Sugar’s lack of fondness for bad weather.
 

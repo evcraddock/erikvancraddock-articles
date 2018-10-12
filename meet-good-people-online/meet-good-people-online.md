@@ -1,17 +1,17 @@
 ---
-id: 5ac582091b0b90003a6e4b0b
+id: 5bbfaaf90437ba00097b79e6
 title: Meet Good People Online
 url: meet-good-people-online
+banner: meet_real_people.jpg
 images:
 - meet_real_people.jpg
-banner: meet_real_people.jpg
 publishDate: 04/10/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/meet-good-people-online/meet-good-people-online.md
 author: Erik Craddock
 categories:
 - ideas
 tags:
 - productivity
+layout: ""
 ---
 I think that it’s possible to meet good people online without feeling like a creep and with very little risk. I think that the key to making friends online is by spending time with them offline. Conventional knowledge tells us that meeting people in person that we met on the Internet is a bad idea and potentially dangerous. I believe that I know how to solve that problem. Below are my ideas for using the Internet to safely meet people who are worth friendship.
 

@@ -1,16 +1,16 @@
 ---
-id: 5ac44e111b0b90003a6e4b04
+id: 5bbfaaf80437ba00097b79e4
 title: It’s All A Cliche
 url: its-all-a-cliche
-images: []
 banner: ""
+images: []
 publishDate: 02/13/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/its-all-a-cliche/its-all-a-cliche.md
 author: erik
 categories:
 - music
 tags:
 - original song
+layout: ""
 ---
 Today I’d like to share another song that Rodney Craddock and I have recorded. It is called It&#8217;s all a cliche. My dad, Larry Craddock, is once again playing lead guitar. This time, my mom, Samie Craddock,has  also made a huge contribution. She wrote the lyrics. I received an email from her seemingly out of the blue last November. It included a poem that she had written one day while she was in a particularly cynical mood. That poem became the lyrics for the song it’s all a cliche. Along with the lyrics, mom sent me instructions to make any changes we deemed necessary. She also encouraged me to take full credit, which I obviously refused to do. We did make changes but very few.
 

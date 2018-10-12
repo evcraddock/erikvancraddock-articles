@@ -1,17 +1,17 @@
 ---
-id: 5ac44b111b0b90003a6e4a9d
+id: 5bbfaae50437ba00097b79c5
 title: Year in Review for 2015
 url: 2015-year-in-review
+banner: 2015-Yearend.jpg
 images:
 - 2015-Yearend.jpg
-banner: 2015-Yearend.jpg
 publishDate: 12/30/2015
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/2015-year-in-review/2015-year-in-review.md
 author: erik
 categories:
 - work
 tags:
 - productivity
+layout: ""
 ---
 ## Year in Review summary
 <span style="font-weight: 400;">In an effort to improve my life, I am publishing a year in review for 2015. Since I didn’t set any goals last year, it is a bit hard to grade my progress. So, before the year is over, I intend to set a few goals on what I want to improve next year. But first, I think it would help to summarize how i think things went in 2015. </span>

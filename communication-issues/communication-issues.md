@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1b1b0b90003a6e4ab6
+id: 5bbfaaea0437ba00097b79ce
 title: Communication Issues
 url: communication-issues
+banner: comm-issues.jpg
 images:
 - comm-issues.jpg
-banner: comm-issues.jpg
 publishDate: 05/23/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/communication-issues/communication-issues.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Have you ever known someone so well that you could complete their sentences? With some people there is hardly a need for verbal communication at all. Half the time, my wife knows what I’m feeling better than I do based solely on my posture and facial expressions. Our biggest communication issues come from the fact that she knows me too well. She likes to anticipate what I’m going to say. Often she will ignore what I actually say and instead answer the question I should have asked. I tend to get bent out of shape over it but the frustrating part is that she is usually right. We know each other so well that we have developed a kind of specialized pseudo language. It consists mostly of looks, movie quotes and partial or half spelled words etc.
 

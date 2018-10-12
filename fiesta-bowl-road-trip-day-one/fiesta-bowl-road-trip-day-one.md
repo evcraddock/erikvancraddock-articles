@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1c1b0b90003a6e4ac7
+id: 5bbfaaee0437ba00097b79d4
 title: Fiesta Bowl Road Trip – Day One
 url: fiesta-bowl-road-trip-day-one
+banner: fiesta-bound.jpg
 images:
 - fiesta-bound.jpg
-banner: fiesta-bound.jpg
 publishDate: 01/19/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-road-trip-day-one/fiesta-bowl-road-trip-day-one.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 There is nothing quite like a road trip across open country to clear your mind, open your eyes to the beauty of the world and test your patience with your travelling companions as well as your fellow occupants of the road.
 

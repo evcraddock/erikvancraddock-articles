@@ -1,12 +1,11 @@
 ---
-id: 5ac44e101b0b90003a6e4af9
+id: 5bbfaaf60437ba00097b79e1
 title: How We Meet People
 url: how-we-meet-people
+banner: your-social-media-sucks-icon.jpg
 images:
 - your-social-media-sucks-icon.jpg
-banner: your-social-media-sucks-icon.jpg
 publishDate: 03/12/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-we-meet-people/how-we-meet-people.md
 author: Erik Craddock
 categories:
 - ideas
@@ -14,6 +13,7 @@ tags:
 - in person
 - meet people
 - social media
+layout: ""
 ---
 ## Did Facebook do us a favor?
 It’s been said that social media websites, like Facebook, are ruining social interactions. I have always been of the opinion that these websites make it easy to know enough about your friends so that you never need to speak to them again. Usually, when I see a friend we discuss what happened since we saw each other last. That is hardly necessary when you are kept informed in real time of their day to day experiences. On top of that, it’s not unusual to learn that you really don’t have much in common with your friends. Or that honestly, you don’t like them. There is something about an open forum that brings out the worst in people.

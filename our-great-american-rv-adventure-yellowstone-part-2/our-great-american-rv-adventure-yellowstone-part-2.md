@@ -1,16 +1,16 @@
 ---
-id: 5ac582391b0b90003a6e4b2b
+id: 5bbfaaff0437ba00097b79f0
 title: Yellowstone (part 2) – Our Great American RV Adventure
 url: our-great-american-rv-adventure-yellowstone-part-2
+banner: oldfaithful.jpg
 images:
 - oldfaithful.jpg
-banner: oldfaithful.jpg
 publishDate: 10/01/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-yellowstone-part-2/our-great-american-rv-adventure-yellowstone-part-2.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 After travelling through five states in four days, we were finally at our destination, Yellowstone National Park. By this time we had a well established morning routine. At around 6AM, dad would come tip toeing  through the RV attempting to exit without waking the boys (especially Ethan). I would get up and follow him out. We had a coffee pot pre-prepared the night before ready to be brewed. By the time it was ready, mom would join us also in need of caffeine.  Eventually Ethan would wake up and of course it was unthinkable that anyone should be asleep while he was not. After converting the hideaway bed back into a couch and reassembling the table, we would all have breakfast. On this day in particular, there was no moaning or slow footing. Everyone was ready to finally begin our exploration of the park. Ethan again reminded us of his intense desire to see a bear as a flurry of destination requests came from the older two boys. We packed up in the Serento and made our way into the park. This scene replayed itself every morning for the next two days.
 

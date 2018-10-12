@@ -1,18 +1,18 @@
 ---
-id: 5ac16d6e77ab840099446fc0
+id: 5bbfaaed0437ba00097b79d2
 title: Don’t automate your life
 url: dont-automate-life
+banner: computer-brains.jpg
 images:
 - computer-brains.jpg
-banner: computer-brains.jpg
 publishDate: 05/02/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/dont-automate-life/dont-automate-life.md
 author: Erik Craddock
 categories:
 - work
 - ideas
 tags:
 - productivity
+layout: ""
 ---
 TLDR; Don’t automate your life. Technology has evolved to the point to where it is almost possible to do just that.  We rely on computers to think for us too much. It is causing our minds to atrophy. Spend your time learning and contributing to the world instead of constantly entertaining yourself.
 

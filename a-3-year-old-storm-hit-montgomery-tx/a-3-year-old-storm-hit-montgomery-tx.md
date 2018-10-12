@@ -1,17 +1,17 @@
 ---
-id: 5ac44b111b0b90003a6e4aa0
+id: 5bbfaae60437ba00097b79c6
 title: A 3 year old Storm hit Montgomery, Tx
 url: a-3-year-old-storm-hit-montgomery-tx
+banner: 3yearold-storm.jpg
 images:
 - 3yearold-storm.jpg
-banner: 3yearold-storm.jpg
 publishDate: 09/05/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/a-3-year-old-storm-hit-montgomery-tx/a-3-year-old-storm-hit-montgomery-tx.md
 author: erik
 categories:
 - family
 - music
 tags: []
+layout: ""
 ---
 The family and I made our way down to Montgomery, Texas a few weeks ago. We stayed with my cousin Rodney and his girlfriend Erin for nearly a week. Our goal was to convince them that they should never, ever for any reason have children. Not that there was any talk of kids. Ethan was only too eager to help prevent that conversation from ever happening, ever. Drew made a beeline to the back room where he holed away to play the XBox, rarely to be seen again. Linda had planned all sorts of fun stuff for us to do together. On the agenda was the NASA museum, the Houston Aquarium and Galveston beach.
 

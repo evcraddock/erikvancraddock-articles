@@ -1,16 +1,16 @@
 ---
-id: 5ac582df1b0b90003a6e4b62
+id: 5bbfab080437ba00097b79fe
 title: Up in the air
 url: up-in-the-air
+banner: up-in-the-air.jpg
 images:
 - up-in-the-air.jpg
-banner: up-in-the-air.jpg
 publishDate: 10/05/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/up-in-the-air/up-in-the-air.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 For as long as I&#8217;ve known Ron Philips, he has always been obsessed with airplanes. It was as if he belonged up in the air. His office was decorated with pictures of them. He had model airplanes on his desk. He played flight simulator games in his spare time. I wasn&#8217;t the least bit surprised when I learned that he had begun the process of becoming a pilot. You could see that look in his eyes when he would talk about it. For several months he had talked about taking me up for a short flight. I was excited, I thought he meant taking off and flying around Burleson a couple of times and landing again. So I was a bit surprised when he called me one day and said &#8220;Let&#8217;s fly to Austin next week&#8221;. For one thing, I&#8217;m an avid Oklahoma Sooner fan and I&#8217;m not sure that I am even allowed to enter Travis county much less Austin. Nevertheless, I accepted without hesitation.
 

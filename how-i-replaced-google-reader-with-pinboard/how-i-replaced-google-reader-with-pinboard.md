@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1e1b0b90003a6e4ae4
+id: 5bbfaaf30437ba00097b79dc
 title: How I Replaced Google Reader with Pinboard
 url: how-i-replaced-google-reader-with-pinboard
+banner: pinboard_in_blue.png
 images:
 - pinboard_in_blue.png
-banner: pinboard_in_blue.png
 publishDate: 04/19/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-i-replaced-google-reader-with-pinboard/how-i-replaced-google-reader-with-pinboard.md
 author: erik
 categories:
 - work
 tags: []
+layout: ""
 ---
 It’s been in the wind for a while. Fewer websites are explicitly offering RSS links. Instead they promote their content on social media sites like Twitter, Facebook and Google+. I only clung to RSS feeds this long because of the strength of Google Reader. I used it constantly. It was my primary link to the Internet. I was subscribed to about 50 different feeds grouped up into about 10 different folders. It has worked out pretty well for about 4 or 5 years, so of course Google decided to shut Reader down.
 

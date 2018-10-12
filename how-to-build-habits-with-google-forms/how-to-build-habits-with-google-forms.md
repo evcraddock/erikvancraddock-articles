@@ -1,19 +1,19 @@
 ---
-id: 5ac44b1e1b0b90003a6e4ae7
+id: 5bbfa9e00437ba00097b79c4
 title: Build Habits with Google Forms
 url: how-to-build-habits-with-google-forms
+banner: Go-to-live-form.png
 images:
 - Go-to-live-form.png
 - Create-Form.png
 - Create-Recuring-Task.png
 - Morning-Checklist.png
-banner: Go-to-live-form.png
 publishDate: 10/08/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-build-habits-with-google-forms/how-to-build-habits-with-google-forms.md
 author: erik
 categories:
 - work
 tags: []
+layout: ""
 ---
 <img class="alignnone size-medium wp-image-578" title="Create Form" src="{imageservice}/Create-Form.png" alt="Build Habits" width="300" height="266" />
 

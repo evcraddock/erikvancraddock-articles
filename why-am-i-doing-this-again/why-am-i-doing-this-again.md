@@ -1,15 +1,15 @@
 ---
-id: 5ac582e01b0b90003a6e4b6c
+id: 5bbfab0a0437ba00097b7a01
 title: Why am I doing this again?
 url: why-am-i-doing-this-again
-images: []
 banner: ""
+images: []
 publishDate: 03/20/2009
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/why-am-i-doing-this-again/why-am-i-doing-this-again.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 Ok, I&#8217;ve decided to start recording my daily activities for a number of reasons. 
 

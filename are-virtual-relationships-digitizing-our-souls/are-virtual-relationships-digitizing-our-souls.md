@@ -1,16 +1,16 @@
 ---
-id: 5ac44b181b0b90003a6e4aa7
+id: 5bbfaae70437ba00097b79c9
 title: Are Virtual Relationships Digitizing our Souls?
 url: are-virtual-relationships-digitizing-our-souls
+banner: digital-soul.jpg
 images:
 - digital-soul.jpg
-banner: digital-soul.jpg
 publishDate: 05/25/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/are-virtual-relationships-digitizing-our-souls/are-virtual-relationships-digitizing-our-souls.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 The line of demarcation between our physical and internet lives is continually blurring. Many of our activities are obviously shifting to the latter, especially when it comes to communication and entertainment. Music, video, written text, and personal communication are already more prevalent on the web. Before you know it everything that you can’t get directly from the Internet will get dropped shipped to the home you never need to leave. I’ve even read about machines that can print three dimensional objects. Can you imagine ordering an end table from the Internet and then printing it from scratch directly in your home? It almost sounds like the Starship Enterprise teleporter, but I’m getting side tracked.
   

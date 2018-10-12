@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1c1b0b90003a6e4ace
+id: 5bbfaaef0437ba00097b79d6
 title: Fiesta Bowl Trip – Stranded in Roswell
 url: fiesta-bowl-trip-stranded-roswell
+banner: roswell.jpg
 images:
 - roswell.jpg
-banner: roswell.jpg
 publishDate: 01/21/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-trip-stranded-roswell/fiesta-bowl-trip-stranded-roswell.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 **In case you missed it here is the story of the [first day of our trip](/2011/01/fiesta-bowl-road-trip-day-one/) to Glendale Arizona for the Fiesta Bowl.**
 

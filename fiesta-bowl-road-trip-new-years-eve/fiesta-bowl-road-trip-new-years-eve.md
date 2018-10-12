@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1c1b0b90003a6e4acb
+id: 5bbfaaee0437ba00097b79d5
 title: Fiesta Bowl Road Trip – New Years Eve
 url: fiesta-bowl-road-trip-new-years-eve
+banner: with-care.jpg
 images:
 - with-care.jpg
-banner: with-care.jpg
 publishDate: 01/26/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/fiesta-bowl-road-trip-new-years-eve/fiesta-bowl-road-trip-new-years-eve.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 It&#8217;s hard to describe the feeling of elation that we all had as we drove away from Roswell </strong>in a brand new 2010 Toyota Camry on loan from the dealership. Not that Roswell was such a horrible place, but let&#8217;s face it, it is a town that is primarily known for the fact that some of its residents insisted that they had been visited by little green men. That is not exactly an indicator of high culture or sophistication, then again we were passing through there on our way to see grown men run up and down a patch of grass while trying to tackle each other. We can leave it at that, my intention is not to offend any little green men who may be reading or Roswell residents who lament that their town isn&#8217;t known for being the home of <a href="http://en.wikipedia.org/wiki/Robert_Goddard_(scientist)" target="_blank">Robert Goddard</a> the father of modern rocketry. I was however thrilled to be moving on. We headed west down highway 70 towards Ruidoso Downs while dodging tumbleweeds to pass the time.
 
