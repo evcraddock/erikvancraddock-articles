@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaea0437ba00097b79cd
+id: 5be64edf65a6a0000525922a
 title: Chili, beer and music at the Lanier’s
 url: chili-beer-and-music-at-the-laniers
 banner: ""

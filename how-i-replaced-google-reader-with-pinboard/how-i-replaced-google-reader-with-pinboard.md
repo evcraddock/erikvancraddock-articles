@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaf30437ba00097b79dc
+id: 5be64ee865a6a00005259239
 title: How I Replaced Google Reader with Pinboard
 url: how-i-replaced-google-reader-with-pinboard
 banner: pinboard_in_blue.png

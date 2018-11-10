@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaf60437ba00097b79e0
+id: 5be64eeb65a6a0000525923e
 title: How to Use Goals
 url: how-to-use-goals
 banner: goals.jpg

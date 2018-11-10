@@ -1,5 +1,5 @@
 ---
-id: 5bbfaafa0437ba00097b79e8
+id: 5be64eef65a6a00005259246
 title: Middle Class Rock Stars
 url: middle-class-rock-stars
 banner: hero.jpg

@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaed0437ba00097b79d2
+id: 5be64ee265a6a0000525922f
 title: Don’t automate your life
 url: dont-automate-life
 banner: computer-brains.jpg

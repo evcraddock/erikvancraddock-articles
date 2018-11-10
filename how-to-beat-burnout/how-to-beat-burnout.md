@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaf30437ba00097b79dd
+id: 5be64ee865a6a0000525923a
 title: How to beat burnout
 url: how-to-beat-burnout
 banner: burnout.png

@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaff0437ba00097b79f0
+id: 5be64ef365a6a0000525924e
 title: Yellowstone (part 2) – Our Great American RV Adventure
 url: our-great-american-rv-adventure-yellowstone-part-2
 banner: oldfaithful.jpg

@@ -1,5 +1,5 @@
 ---
-id: 5bbfab050437ba00097b79f9
+id: 5be64ef865a6a00005259256
 title: Our Great American RV Adventure – Preparation
 url: the-great-american-rv-adventure-preparation
 banner: america-trip.jpg

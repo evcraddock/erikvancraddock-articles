@@ -1,5 +1,5 @@
 ---
-id: 5bbfab040437ba00097b79f6
+id: 5be64ef765a6a00005259253
 title: Socialized Digital Product Development
 url: socialized-digital-product-development
 banner: social-digital.jpg

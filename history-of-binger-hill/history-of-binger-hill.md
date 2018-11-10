@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaf10437ba00097b79da
+id: 5be64ee765a6a00005259237
 title: History of Binger Hill
 url: history-of-binger-hill
 banner: thehill.jpg

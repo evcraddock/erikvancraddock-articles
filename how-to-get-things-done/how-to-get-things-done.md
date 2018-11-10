@@ -1,5 +1,5 @@
 ---
-id: 5bbfaaf50437ba00097b79de
+id: 5be64eea65a6a0000525923c
 title: How To Get Things Done – GTD
 url: how-to-get-things-done
 banner: gtd.jpg

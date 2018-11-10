@@ -1,5 +1,5 @@
 ---
-id: 5bbfaae60437ba00097b79c8
+id: 5be64edd65a6a00005259225
 title: An Overview of Getting Things Done – Lists
 url: an-overview-of-getting-things-done-lists
 banner: gtd-list.jpg

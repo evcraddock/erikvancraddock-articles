@@ -1,5 +1,5 @@
 ---
-id: 5bbfaafd0437ba00097b79ed
+id: 5be64ef265a6a0000525924b
 title: Colorado Springs – Our Great American RV Adventure
 url: our-great-american-rv-adventure-colorado-springs
 banner: colorado-springs.jpg

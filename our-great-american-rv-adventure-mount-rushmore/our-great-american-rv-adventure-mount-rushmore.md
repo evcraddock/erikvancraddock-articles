@@ -1,5 +1,5 @@
 ---
-id: 5bbfaafe0437ba00097b79ef
+id: 5be64ef265a6a0000525924d
 title: Mount Rushmore – Our Great American RV Adventure
 url: our-great-american-rv-adventure-mount-rushmore
 banner: rushmore.jpg

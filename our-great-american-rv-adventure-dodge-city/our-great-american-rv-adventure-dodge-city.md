@@ -1,5 +1,5 @@
 ---
-id: 5bbfaafe0437ba00097b79ee
+id: 5be64ef265a6a0000525924c
 title: Dodge City – Our Great American RV Adventure
 url: our-great-american-rv-adventure-dodge-city
 banner: dodge-city.jpg

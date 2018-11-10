@@ -1,5 +1,5 @@
 ---
-id: 5bbfaae90437ba00097b79cb
+id: 5be64ede65a6a00005259228
 title: Poke the Box (Seth Godin) – Book Review
 url: book-review-poke-the-box-seth-godin
 banner: poke-the-box.jpg
