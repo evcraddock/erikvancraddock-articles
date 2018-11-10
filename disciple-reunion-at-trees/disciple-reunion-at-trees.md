@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1b1b0b90003a6e4ab9
+id: 5be64ee065a6a0000525922c
 title: Disciple reunion at Trees
 url: disciple-reunion-at-trees
+banner: Disciple_2011.jpg
 images:
 - Disciple_2011.jpg
-banner: Disciple_2011.jpg
 publishDate: 04/14/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/disciple-reunion-at-trees/disciple-reunion-at-trees.md
 author: erik
 categories:
 - music
 tags: []
+layout: ""
 ---
 It&#8217;s not often that Linda and I have a night without the kids so having a full weekend to do what we pleased felt very foreign indeed. This all came about thanks to a late 80&#8217;s metal band. Let me explain.
 

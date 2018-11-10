@@ -1,18 +1,18 @@
 ---
-id: 5ac582391b0b90003a6e4b38
+id: 5be64148b0aa380005de8a87
 title: Plan to Succeed
 url: plan-to-succeed
+banner: success_baby.jpg
 images:
 - success_baby.jpg
-banner: success_baby.jpg
 publishDate: 02/28/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/plan-to-succeed/plan-to-succeed.md
 author: erik
 categories:
 - ideas
 - productivity
 tags:
 - plan
+layout: ""
 ---
 Much of the time, we set ourselves up for failure. We set goals in order to please someone else. We plan for things that we aren’t ready to tackle. We try to do too much. These are recipes for failure. If you are going to set goals, make sure that they are achievable. Spend some time figuring out what you need to do. Determine what success looks like and make plans. Otherwise you are likely to fail.
 

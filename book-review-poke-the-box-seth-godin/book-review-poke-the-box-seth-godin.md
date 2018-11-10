@@ -1,16 +1,16 @@
 ---
-id: 5ac44b181b0b90003a6e4aaf
+id: 5be64ede65a6a00005259228
 title: Poke the Box (Seth Godin) – Book Review
 url: book-review-poke-the-box-seth-godin
+banner: poke-the-box.jpg
 images:
 - poke-the-box.jpg
-banner: poke-the-box.jpg
 publishDate: 03/18/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/book-review-poke-the-box-seth-godin/book-review-poke-the-box-seth-godin.md
 author: erik
 categories:
 - book review
 tags: []
+layout: ""
 ---
 [1][Poke the Box][1] is the first book published by the [Domino Project][2]. The book nor the publishing company is easily categorized. A little bit about the Domino Project. What I am reading is that the Domino Project is going to make it easier and faster to produce, promote and distribute books. This is being accomplished by a partnership with Amazon. It is not exactly clear to me how this is different than any other publisher. Granted I am not an expert in the publishing industry but the books still have to be written, edited, produced and then distributed don&#8217; they? Doesn&#8217;t every publisher already follow this model? I am very impressed with the ideas of Seth Godin and have faith that this project is highly innovative and am pretty sure that it&#8217;s me that just doesn&#8217;t get it.  Hopefully someone out there can explain the difference to me.
 

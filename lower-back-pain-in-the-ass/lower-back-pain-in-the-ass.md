@@ -1,16 +1,16 @@
 ---
-id: 5ac44e111b0b90003a6e4b05
+id: 5be64eee65a6a00005259243
 title: Lower back pain in the ass
 url: lower-back-pain-in-the-ass
+banner: oldman.jpg
 images:
 - oldman.jpg
-banner: oldman.jpg
 publishDate: 02/07/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/lower-back-pain-in-the-ass/lower-back-pain-in-the-ass.md
 author: erik
 categories:
 - work
 tags: []
+layout: ""
 ---
 I sit on my ass approximately 15 hours a day. Can you believe that? Doesn’t that seem a tad excessive? I’m only awake around 18 hours.  At first when I did the math, I thought that I must have made a mistake. Nope, I easily sit that long. I guess I wouldn’t care except that recently I’ve started to feel pain in my lower back. Ok, recently is a lie. This back pain has been going on for about six months. It’s not the sort of pain that interferes with my life too much. It’s mostly just an annoyance like one of the kids tugging at my sleeve while I’m busy.
 

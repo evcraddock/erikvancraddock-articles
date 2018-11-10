@@ -1,16 +1,16 @@
 ---
-id: 5ac582381b0b90003a6e4b28
+id: 5be64ef265a6a0000525924d
 title: Mount Rushmore – Our Great American RV Adventure
 url: our-great-american-rv-adventure-mount-rushmore
+banner: rushmore.jpg
 images:
 - rushmore.jpg
-banner: rushmore.jpg
 publishDate: 10/11/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-mount-rushmore/our-great-american-rv-adventure-mount-rushmore.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 After spending a few days in Yellowstone, it was time to head home. We decided to take a different route back in order to see more of the American west. We exited Yellowstone via the east entrance and took highway 16 to Cody, Wy. We continued on highway 16 with a little trepidation through the Bighorn mountains. We had read reports of sharp curves and steep roads that might tax the breaks. Losing your breaks on a 10% decline is the last thing you want in a 35 foot RV. However, after surviving dirt roads at the top of the Grand Tetons we felt we could handle anything and it turned out to be a non issue. At Greybull we took highway 14 over to I90 and entered Sheridan, Wy the home of the world famous Peter D&#8217;s RV Park.
 

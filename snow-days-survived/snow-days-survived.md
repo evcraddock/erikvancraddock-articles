@@ -1,16 +1,16 @@
 ---
-id: 5ac5823a1b0b90003a6e4b40
+id: 5be64ef665a6a00005259252
 title: Snow Days Survived
 url: snow-days-survived
+banner: snow-day.jpg
 images:
 - snow-day.jpg
-banner: snow-day.jpg
 publishDate: 02/08/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/snow-days-survived/snow-days-survived.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 After a full week of sitting at home due to snow days, life returned to some semblance or normalcy today. At this time last week the sleet was already beating down on my roof. I always work from the home office on Tuesdays but it was pretty apparent that none of us would be leaving the house the next day. This proved to be true for the rest of the week.
 

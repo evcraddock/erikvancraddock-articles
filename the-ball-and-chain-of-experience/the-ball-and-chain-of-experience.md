@@ -1,16 +1,16 @@
 ---
-id: 5ac5823a1b0b90003a6e4b4b
+id: 5be64ef765a6a00005259254
 title: The Ball and Chain of Experience
 url: the-ball-and-chain-of-experience
+banner: Elevator-Store.jpg
 images:
 - Elevator-Store.jpg
-banner: Elevator-Store.jpg
 publishDate: 02/19/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-ball-and-chain-of-experience/the-ball-and-chain-of-experience.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Children are unburdened by the ball and chain of experience. They typically see the world for what it is and it isn’t nearly as complicated as we adults seem to think. For example, my youngest son is almost four years old, he has a mind like a trap. He has very concrete expectations for life. He wants to eat when he is hungry and drink when thirsty. Mostly, he wants to play. He is on a continual quest for anything new; new games, new friends and new words. Each offers him new opportunities to play. When there is somewhere to go he wants to tag along. His prime directive is to have fun. He faces down any act of fun repression with fierce opposition.
 

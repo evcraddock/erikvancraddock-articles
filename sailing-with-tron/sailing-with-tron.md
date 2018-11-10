@@ -1,18 +1,18 @@
 ---
-id: 5ac5823a1b0b90003a6e4b3b
+id: 5be64ef565a6a00005259251
 title: Sailing with Tron
 url: sailing-with-tron
+banner: captain-tron.jpg
 images:
 - captain-tron.jpg
 - sailing-rocks.jpg
-banner: captain-tron.jpg
 publishDate: 07/26/2010
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/sailing-with-tron/sailing-with-tron.md
 author: erik
 categories:
 - family
 tags:
 - sailing
+layout: ""
 ---
 **6:15 AM :** Rise and shine&#8230; er sort of. Drew awakens reluctantly
   

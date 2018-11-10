@@ -1,15 +1,15 @@
 ---
-id: 5ac582381b0b90003a6e4b17
+id: 5be64ef065a6a00005259248
 title: My weekend
 url: my-weekend
-images: []
 banner: ""
+images: []
 publishDate: 03/23/2009
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/my-weekend/my-weekend.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 Mario and Andrea drove up to spend the weekend with us on friday night. They arrived at about 8 or 8:30. I guess Mario was already missing Sue who came to spend the remainder of linda&#8217;s prenancy on wednesday.
 

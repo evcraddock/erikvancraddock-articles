@@ -1,16 +1,16 @@
 ---
-id: 5ac582de1b0b90003a6e4b57
+id: 5be64ef965a6a00005259258
 title: The Reluctant Prisoner
 url: the-reluctant-prisoner
+banner: prisoner.jpg
 images:
 - prisoner.jpg
-banner: prisoner.jpg
 publishDate: 02/24/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-reluctant-prisoner/the-reluctant-prisoner.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 The terms of surrender of private property and personal liberty were never fully agreed upon by all parties. Linda and I, henceforth known as &#8220;The parents&#8221;, have spent the better part of two years trying to ensure that the life, limb and property of a certain mister Ethan Craddock  remain unmolested, much to his annoyance. He seems to consider himself a prisoner, the reluctant prisoner.
 

@@ -1,15 +1,15 @@
 ---
-id: 5ac44b1b1b0b90003a6e4ab5
+id: 5be64edf65a6a0000525922a
 title: Chili, beer and music at the Lanier’s
 url: chili-beer-and-music-at-the-laniers
-images: []
 banner: ""
+images: []
 publishDate: 05/29/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/chili-beer-and-music-at-the-laniers/chili-beer-and-music-at-the-laniers.md
 author: erik
 categories:
 - music
 tags: []
+layout: ""
 ---
 I spent last Saturday night drinking beer, eating chili and writing music at the home of Nathan and Misti Lanier. Linda and I had been looking forward to a night with adults away from the kids for some time. Unfortunately Linda was inflicted with a sinus infection and ended up staying with her parents along with the kids.
 

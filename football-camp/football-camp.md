@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1d1b0b90003a6e4ad8
+id: 5be64ee565a6a00005259234
 title: Football Camp
 url: football-camp
+banner: football-buddies.jpg
 images:
 - football-buddies.jpg
-banner: football-buddies.jpg
 publishDate: 07/31/2010
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/football-camp/football-camp.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 Football season is almost underway again and I have a new favorite team. I am now a die hard Chiefs fan. No not those Chiefs, I&#8217;m talking about my sons new football team the [RYA][1] Junior Chiefs. He has played for the bantam Panthers team for the last three years with plenty of ups and downs. Along the way Drew has experienced blood, sweat and tears. He went from mostly watching along the sidelines his first year to being Mr. Star Running back last year.
 

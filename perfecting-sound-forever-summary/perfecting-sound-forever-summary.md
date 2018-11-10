@@ -1,17 +1,17 @@
 ---
-id: 5ac582391b0b90003a6e4b35
+id: 5be64ef465a6a00005259250
 title: Perfecting Sound Forever – Summary
 url: perfecting-sound-forever-summary
+banner: perfecting-sound.jpg
 images:
 - perfecting-sound.jpg
-banner: perfecting-sound.jpg
 publishDate: 10/04/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/perfecting-sound-forever-summary/perfecting-sound-forever-summary.md
 author: erik
 categories:
 - book review
 - music
 tags: []
+layout: ""
 ---
 Thomas Edison invented the phonograph in 1877 in an effort to accurately record sound. He aimed to create a device that could document what was heard much the same way a photograph documented what was seen. It didn’t take long until it became apparent that the primary draw of the phonograph was not to document sound but to be entertained by it.
 

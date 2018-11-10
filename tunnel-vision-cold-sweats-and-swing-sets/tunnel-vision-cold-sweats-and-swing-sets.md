@@ -1,15 +1,15 @@
 ---
-id: 5ac582df1b0b90003a6e4b61
+id: 5be64efb65a6a0000525925a
 title: Tunnel Vision, cold sweats and swing sets
 url: tunnel-vision-cold-sweats-and-swing-sets
-images: []
 banner: ""
+images: []
 publishDate: 03/25/2009
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/tunnel-vision-cold-sweats-and-swing-sets/tunnel-vision-cold-sweats-and-swing-sets.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 The drive to work this morning seemed to take forever. I felt like (and honestly still do) I was on the verge of going insane pretty much the entire day. I regretted going to work almost as soon as I got there. I promised dana yesterday that I would finish the search code by tomorrow so I set about getting it done. I finally fixed the dropdown list that for the tables in the sort area. I had it all pretty much working yesterday except that the same tables were ending up in the drop down list twice. I basically had to check the existing list as I added new tables to see if it was already in there. I also resorted the list to be in alphabetical order right before I set the datasource of the dropdown list.
 

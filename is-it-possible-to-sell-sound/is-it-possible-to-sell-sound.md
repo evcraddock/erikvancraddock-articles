@@ -1,17 +1,17 @@
 ---
-id: 5ac44e101b0b90003a6e4afc
+id: 5be64eec65a6a00005259240
 title: Is it possible to sell sound?
 url: is-it-possible-to-sell-sound
+banner: sell-sound.jpg
 images:
 - sell-sound.jpg
-banner: sell-sound.jpg
 publishDate: 10/15/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/is-it-possible-to-sell-sound/is-it-possible-to-sell-sound.md
 author: erik
 categories:
 - ideas
 - music
 tags: []
+layout: ""
 ---
 The concept of property can get complicated. We have plenty of laws regulating it. In fact, the idea of private property is at the heart of our way of living. It seems fair that if you work hard creating something, then you should own it. That isn&#8217;t always possible, and some things cannot be owned at all. Or at the very least, it would be silly to consider owning them, for example a cloud, rain or air. What about sound? Does one own the sounds he makes? Can you sell sound? When you speak, you create sound. A few people actually put a lot of time, energy and thought into what they say.
 
