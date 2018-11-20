@@ -1,18 +1,18 @@
 ---
-id: 5ac179f977ab840099446fc7
+id: 5bf478698291b5000534fa24
 title: How I consume the Internet
 url: how-i-consume-the-internet
+banner: internet-junkie.jpg
 images:
 - internet-junkie.jpg
-banner: internet-junkie.jpg
 publishDate: 06/29/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-i-consume-the-internet/how-i-consume-the-internet.md
 author: Erik Craddock
 categories:
 - ideas
 tags:
 - ideas
 - productivity
+layout: ""
 ---
 I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I'm not careful I will find myself reading about some [obscure religious rite](http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites) or the [mating habits of deep sea creatures](http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/) or [Neuromancer fan fiction](https://www.fanfiction.net/u/55503/Electric-Monk). Every subject is represented. There are niche groups living within niche groups. Unbelievably, there is just too much information. 
 
