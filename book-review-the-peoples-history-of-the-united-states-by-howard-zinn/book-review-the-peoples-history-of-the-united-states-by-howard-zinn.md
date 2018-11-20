@@ -1,16 +1,16 @@
 ---
-id: 5ac44b181b0b90003a6e4ab2
+id: 5be64edf65a6a00005259229
 title: The People’s History of the United States by Howard Zinn – Book Review
 url: book-review-the-peoples-history-of-the-united-states-by-howard-zinn
+banner: peoples-history.jpg
 images:
 - peoples-history.jpg
-banner: peoples-history.jpg
 publishDate: 04/19/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/book-review-the-peoples-history-of-the-united-states-by-howard-zinn/book-review-the-peoples-history-of-the-united-states-by-howard-zinn.md
 author: erik
 categories:
 - book review
 tags: []
+layout: ""
 ---
 A theme is established at the beginning of the People&#8217;s History of the United States. It begins with Christopher Columbus enslaving, kidnapping and slaughtering the native Americans. It is continued with the African slave trade. It is represented by the protest of war after war, in countless labor strikes and the struggle of many different minority groups for equal consideration. Howard Zinn&#8217;s The People&#8217;s History is the repetitive recounting of the rich few subjugating the weak majority in the name of democracy, capitalism and freedom.
 

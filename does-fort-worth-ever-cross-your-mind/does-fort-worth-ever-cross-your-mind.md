@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1b1b0b90003a6e4abf
+id: 5be64ee165a6a0000525922e
 title: Does Fort Worth Ever Cross Your Mind?
 url: does-fort-worth-ever-cross-your-mind
+banner: fortworthskyline.jpg
 images:
 - fortworthskyline.jpg
-banner: fortworthskyline.jpg
 publishDate: 10/23/2015
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/does-fort-worth-ever-cross-your-mind/does-fort-worth-ever-cross-your-mind.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 <span style="font-weight: 400;">As I fly over DFW airport, I can see downtown Fort Worth in the distance. I have 13 years worth of memories there that are surprisingly happy considering how eager I was to leave. I guess it is hard to fully appreciate something while you are experiencing it. The tendency, at least for me, is to move forward. I have been in pursuit of some ambitious goal ever since I was a boy. It is virtually impossible to look back while you are going full steam ahead. But the older I get the more I find myself reminiscing. </span>
 

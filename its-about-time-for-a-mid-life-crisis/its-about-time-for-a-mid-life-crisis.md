@@ -1,16 +1,16 @@
 ---
-id: 5ac44e101b0b90003a6e4aff
+id: 5be64eed65a6a00005259241
 title: It’s about time for a mid life crisis
 url: its-about-time-for-a-mid-life-crisis
+banner: turning-fourty.jpg
 images:
 - turning-fourty.jpg
-banner: turning-fourty.jpg
 publishDate: 07/22/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/its-about-time-for-a-mid-life-crisis/its-about-time-for-a-mid-life-crisis.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 I’m facing another one of those age milestones in a couple of weeks. I turn 39 next month. This will be the last year of my 30’s. The average lifespan of a male in the United States is about 75 years, but that increases a little bit nearly every year. So I am probably somewhere around halfway finished. I’m still young, relatively speaking. I’ve already experienced so much that I can’t remember it all. That is kind of exciting if I think about it. There is so much I can still do, and maybe I’ll forget about some of the dumb shit I’ve already done.
 

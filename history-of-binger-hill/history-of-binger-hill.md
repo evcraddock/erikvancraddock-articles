@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1d1b0b90003a6e4ae1
+id: 5be64ee765a6a00005259237
 title: History of Binger Hill
 url: history-of-binger-hill
+banner: thehill.jpg
 images:
 - thehill.jpg
-banner: thehill.jpg
 publishDate: 12/26/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/history-of-binger-hill/history-of-binger-hill.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 I was raised to respect my last name. I was taught to be proud of who we are and where we came from. When I was a kid, I thought that I was a member of a secret society. There was a strong sense of family. Being a part of it meant that you would never be alone. We loved each other and still do. I believed that if you shared my blood line then you were a step above. You got any benefit of the doubt. We treated each other like royalty. This honor did not come without demands. I definitely felt that I had a lot to live up to.
 

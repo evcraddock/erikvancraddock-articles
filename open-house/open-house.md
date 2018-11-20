@@ -1,16 +1,16 @@
 ---
-id: 5ac582381b0b90003a6e4b19
+id: 5be64ef165a6a0000525924a
 title: Open House
 url: open-house
+banner: open-house.jpg
 images:
 - open-house.jpg
-banner: open-house.jpg
 publishDate: 03/12/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/open-house/open-house.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 Bluebonnet Elementary school treated the family of its students to an Open House Thursday evening. It was highly anticipated at our house and Drew seemed excited to show us what he had been working on at school. I was already somewhat aware of what I would be seeing as I had been helping him with one of his projects off an on for the prior week. It&#8217;s always fun to go to the school and see what the kids have been working on. Linda and I were excited to go, had I known the future I might have chosen to stay home.
 

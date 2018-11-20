@@ -1,18 +1,18 @@
 ---
-id: 5ac44b1f1b0b90003a6e4af6
+id: 5be64eeb65a6a0000525923e
 title: How to Use Goals
 url: how-to-use-goals
+banner: goals.jpg
 images:
 - goals.jpg
-banner: goals.jpg
 publishDate: 01/25/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-use-goals/how-to-use-goals.md
 author: erik
 categories:
 - work
 - productivity
 tags:
 - goals
+layout: ""
 ---
 <span style="font-weight: 400;">Every year in January a horde of people line up at the gym for that magical workout that will change their lives forever. They make grandiose promises of losing 50 pounds, giving up sugar, or quitting smoking. Of course by the 2nd week of January the gym is a ghost town, candy bar sales are through the roof and that pack of cigarettes became two. Why is it so hard to do what we know needs to be done? It’s not like it’s someone else’s problem that we are being asked to care about. In fact, typically people are much better at doing the work that is important to someone else, such as their boss.</span>
 

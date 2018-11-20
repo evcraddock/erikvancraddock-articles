@@ -1,16 +1,16 @@
 ---
-id: 5ac582e01b0b90003a6e4b73
+id: 5be64efe65a6a00005259261
 title: Youthful Creativity
 url: youthful-creativity
+banner: butch-meany.jpg
 images:
 - butch-meany.jpg
-banner: butch-meany.jpg
 publishDate: 08/09/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/youthful-creativity/youthful-creativity.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 The earliest act of creativity that I can remember came in the form of a comic book. I was by no means a talented artist. The characters I created were the stereotypical products of an eight year old mind. For example my villain was big, bald and ugly. I dubbed him Butch Meaney. It’s a little disconcerting how much I now resemble my early ideal of a bad guy.
 

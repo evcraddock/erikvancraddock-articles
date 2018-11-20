@@ -1,16 +1,16 @@
 ---
-id: 5ac582e01b0b90003a6e4b6d
+id: 5be64efd65a6a0000525925f
 title: Why do people bother spending time with you?
 url: why-do-people-bother-spending-time-with-you
+banner: spending-time.png
 images:
 - spending-time.png
-banner: spending-time.png
 publishDate: 05/16/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/why-do-people-bother-spending-time-with-you/why-do-people-bother-spending-time-with-you.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 While reading a blog post about passive income streams, I was presented with the following question: Why do people bother spending time with you? I had to stop and think about this for a little bit. The point of the question is to identify the value that you already bring people. I realize that I don’t really know why people spend time with me. If I think about it, not too many people actually do spend time with me. More accurately, I don’t spend much time with other people.
 

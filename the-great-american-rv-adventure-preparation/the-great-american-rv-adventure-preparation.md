@@ -1,16 +1,16 @@
 ---
-id: 5ac5823b1b0b90003a6e4b51
+id: 5be64ef865a6a00005259256
 title: Our Great American RV Adventure – Preparation
 url: the-great-american-rv-adventure-preparation
+banner: america-trip.jpg
 images:
 - america-trip.jpg
-banner: america-trip.jpg
 publishDate: 08/08/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-great-american-rv-adventure-preparation/the-great-american-rv-adventure-preparation.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 The terrain of the United States is a complete wonder to me. The aesthetic difference of the east coast from the west and everything in between is like night and day. It varies so much that it is hard to believe that it is all part of the same country. I believe it to be true that we are in part products of our environment. My upbringing in a small peanut and cotton farming community has vastly shaped my view of the world. I can only assume that this is true of everyone.
 

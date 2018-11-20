@@ -1,16 +1,16 @@
 ---
-id: 5ac582391b0b90003a6e4b30
+id: 5be64ef465a6a0000525924f
 title: Entering Yellowstone – Our Great American RV Adventure
 url: our-great-american-rv-adventure-yellowstone-part1
+banner: Danger.jpg
 images:
 - Danger.jpg
-banner: Danger.jpg
 publishDate: 09/09/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-yellowstone-part1/our-great-american-rv-adventure-yellowstone-part1.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 Driving through Wyoming is like touring a spaghetti western movie. At any moment I expected traditionally dressed Arapaho to come riding out on horseback. Dylan and Drew peered out the window, one of them exclaimed &#8220;this looks like Red Dead Redemption&#8221;. This truly was a perfect picture of how I have always envisioned the Old West high plains. This describes most of the terrain of Wyoming, that is until one reaches the mountains.
 

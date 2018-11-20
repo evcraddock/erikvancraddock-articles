@@ -1,12 +1,11 @@
 ---
-id: 5ac44b1d1b0b90003a6e4adb
+id: 5be64ee565a6a00005259235
 title: Goals and Plans for 2016
 url: goals-and-plans-2016
+banner: 2016-goals.jpg
 images:
 - 2016-goals.jpg
-banner: 2016-goals.jpg
 publishDate: 01/03/2016
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/goals-and-plans-2016/goals-and-plans-2016.md
 author: erik
 categories:
 - work
@@ -15,6 +14,7 @@ tags:
 - "2016"
 - goals
 - plans
+layout: ""
 ---
 <span style="font-weight: 400;">When it came time to [review how things went in 2015](/2015/12/30/2015-year-in-review/), I had a hard time. I had nothing to work with because I did not set any goals and plans at the beginning of the year. The only valuable thing I was able to do was list out the areas where I did not do so well. This year will be different. [I have set a number of goals](/2016/01/24/how-to-use-goals/) and plans for myself.  At the end of the year, I will be able to compare my goals and plans with what I actually achieved.  This time next year, I should be able to look back and see how I did.</span>
 

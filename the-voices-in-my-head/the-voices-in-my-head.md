@@ -1,16 +1,16 @@
 ---
-id: 5ac582df1b0b90003a6e4b5e
+id: 5be64efa65a6a00005259259
 title: The Voices in My Head
 url: the-voices-in-my-head
+banner: voices-in-my-head.jpg
 images:
 - voices-in-my-head.jpg
-banner: voices-in-my-head.jpg
 publishDate: 05/01/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/the-voices-in-my-head/the-voices-in-my-head.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Is it just me or does everyone hear a thousand chaotic voices muttering in their head all of the time? The voices in my head mostly judge my every move and offer up opinions on the people around me. The opinions vary as do their insistence on being heard. They speak of the feelings and suspicions they have for everyone in my life or in my near vicinity. Neither friends, family or strangers are off limits. They give me a nod of approval when things work out and sarcastically deride my failures. But mostly, the voices pitch ideas.
 

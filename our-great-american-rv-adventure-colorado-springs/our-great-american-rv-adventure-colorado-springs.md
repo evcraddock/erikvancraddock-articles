@@ -1,16 +1,16 @@
 ---
-id: 5ac582381b0b90003a6e4b22
+id: 5be64ef265a6a0000525924b
 title: Colorado Springs – Our Great American RV Adventure
 url: our-great-american-rv-adventure-colorado-springs
+banner: colorado-springs.jpg
 images:
 - colorado-springs.jpg
-banner: colorado-springs.jpg
 publishDate: 08/26/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-colorado-springs/our-great-american-rv-adventure-colorado-springs.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 The weather in Oklahoma and Texas leading up to our trip had been blistering hot. It was not at all uncommon for the temperature to reach 110 degrees. When we heard that it would almost certainly rain before we reached Colorado Springs most everyone rejoiced. However, when I looked over at dad he had no expression on his face at all. I asked &#8220;Do you think rain will be an issue?&#8221;. He quietly replied that he had never driven the RV in the elements but was more worried about the wind than the rain. Now that he mentioned it, the trees we passed did seem to be getting whipped around quite a bit. Dad put on a show of confidence but admitted later that he expected a gust to all but topple us over at any moment.
 

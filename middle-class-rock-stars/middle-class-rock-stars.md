@@ -1,16 +1,16 @@
 ---
-id: 5ac582371b0b90003a6e4b11
+id: 5be64eef65a6a00005259246
 title: Middle Class Rock Stars
 url: middle-class-rock-stars
+banner: hero.jpg
 images:
 - hero.jpg
-banner: hero.jpg
 publishDate: 04/27/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/middle-class-rock-stars/middle-class-rock-stars.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 How many of you would make a donation to my personal bank account in exchange for my behaving in a manner that amused, entertained or was otherwise interesting? I could just behave erratically by doing or saying things inappropriate to my surroundings. We could even take the show on the road, I could travel around just being eccentric. Of course you would all need to pay for this. I, off course, would record each moment and make it available to subscribers for their vicarious  living pleasure.
 

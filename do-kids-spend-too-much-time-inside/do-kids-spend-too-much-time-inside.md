@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1b1b0b90003a6e4abc
+id: 5be64ee165a6a0000525922d
 title: Do Kids Spend Too Much Time Inside?
 url: do-kids-spend-too-much-time-inside
+banner: pool-fun.jpg
 images:
 - pool-fun.jpg
-banner: pool-fun.jpg
 publishDate: 08/31/2012
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/do-kids-spend-too-much-time-inside/do-kids-spend-too-much-time-inside.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 We ate dinner at seven o&#8217;clock. We ate dinner together as a family, at the table, mom’s rules. My spot was at the end of the table directly in front of a wall heater, a prized location in the winter. I sat to the right of my brother Pete and across from mom. This was not some somber formal dining ritual. This was our daily family reunion after a busy day of school or play. Most of time, it was the first chance we had to really talk to each other all day. I don’t remember our house ever being quiet but then again I spent as little time in the house as I could. It was boring in the house. My room? That was the place they sent me when I was in trouble. I spent as much time as I could outside playing with the neighborhood kids.
 

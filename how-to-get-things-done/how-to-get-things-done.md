@@ -1,12 +1,11 @@
 ---
-id: 5ac44b1e1b0b90003a6e4af0
+id: 5be64eea65a6a0000525923c
 title: How To Get Things Done – GTD
 url: how-to-get-things-done
+banner: gtd.jpg
 images:
 - gtd.jpg
-banner: gtd.jpg
 publishDate: 08/25/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-get-things-done/how-to-get-things-done.md
 author: erik
 categories:
 - book review
@@ -15,6 +14,7 @@ categories:
 tags:
 - goals
 - gtd
+layout: ""
 ---
 [Lists are how we track what we need to do] (/2013/07/29/an-overview-of-getting-things-done-lists/) but this alone is not enough. Despite an abundance of technology available to help us keep track of tasks, many of us still keep these lists in our heads. We do this for a variety of reasons. They all have a common root. We don’t trust our system. We don’t actually believe that the list is the full list. We know that things have either been forgotten to be put on the list or were not important enough to track.
 

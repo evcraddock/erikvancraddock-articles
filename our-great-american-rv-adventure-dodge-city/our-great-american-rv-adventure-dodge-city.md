@@ -1,16 +1,16 @@
 ---
-id: 5ac582381b0b90003a6e4b25
+id: 5be64ef265a6a0000525924c
 title: Dodge City – Our Great American RV Adventure
 url: our-great-american-rv-adventure-dodge-city
+banner: dodge-city.jpg
 images:
 - dodge-city.jpg
-banner: dodge-city.jpg
 publishDate: 08/12/2011
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/our-great-american-rv-adventure-dodge-city/our-great-american-rv-adventure-dodge-city.md
 author: erik
 categories:
 - family
 tags: []
+layout: ""
 ---
 Day one of our trip to see Yellowstone had finally arrived. We could not have been more excited. Linda, Drew, Ethan and I arrived at my parents house in Anadarko, Ok on Sunday just in time for lunch. Dad and I began pre-departure inspections and were immediately faced with a dead main battery. We were able to get it started with a jump and after some fiddling determined that everything was fine. Next we climbed on top of the vehicle in the blistering heat and cleaned out the air conditioning system filters. Everything checked out great. The only thing left to do was attach the tow dolly and hook up mom&#8217;s Kia Serento. This would allow us to pull out early the next morning and head to Wichita. Not everything works out as you plan.
 

@@ -1,15 +1,15 @@
 ---
-id: 5ac582e01b0b90003a6e4b72
+id: 5be64efd65a6a00005259260
 title: Wow as it turns out I’m a terrorist
 url: wow-as-it-turns-out-im-a-terrorist
-images: []
 banner: ""
+images: []
 publishDate: 05/20/2009
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/wow-as-it-turns-out-im-a-terrorist/wow-as-it-turns-out-im-a-terrorist.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Pretty much spent my whole day trying to get subversion, ahnk, tortoisesvn and visual studio updated. I also began working on a new dialog to Adding Attachments that are not scanned. I&#8217;ve also decided that I need to create a user control that rolls up all the attachment functionality. 
 

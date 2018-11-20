@@ -1,12 +1,11 @@
 ---
-id: 5ac17b1b77ab840099446fca
+id: 5be64ee865a6a0000525923a
 title: How to beat burnout
 url: how-to-beat-burnout
+banner: burnout.png
 images:
 - burnout.png
-banner: burnout.png
 publishDate: 02/05/2017
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-beat-burnout/how-to-beat-burnout.md
 author: Erik Craddock
 categories:
 - work
@@ -14,6 +13,7 @@ tags:
 - Ideas
 - Productivity
 - burnout
+layout: ""
 ---
 For the past few months, I haven't felt like writing. I haven't felt like working on anything really. It has been impossible to motivate myself. The [resistence](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/) has kicked my ass. I've been burned out. I actually started writing this post in July and put it down until now. Why did I allow this to happen? There are several reasons, none of them good.
 

@@ -1,16 +1,16 @@
 ---
-id: 5ac44b1f1b0b90003a6e4af3
+id: 5be64eeb65a6a0000525923d
 title: How to Teach Kids to Learn
 url: how-to-teach-kids-to-learn
+banner: teach-kids.jpg
 images:
 - teach-kids.jpg
-banner: teach-kids.jpg
 publishDate: 04/26/2015
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/how-to-teach-kids-to-learn/how-to-teach-kids-to-learn.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Kids naturally learn. It’s what they do. In the dictionary it should describe children as “Small humans who obtain knowledge at dizzying speeds with the express intent of driving their parents insane”.
 

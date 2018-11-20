@@ -1,16 +1,16 @@
 ---
-id: 5ac582df1b0b90003a6e4b65
+id: 5be64efb65a6a0000525925c
 title: Whining, Crying and Belly Aching
 url: whining-crying-and-belly-aching
+banner: whining.jpg
 images:
 - whining.jpg
-banner: whining.jpg
 publishDate: 03/28/2013
-dataSource: /Users/erikcraddock/work/web/erikvancraddock-articles/whining-crying-and-belly-aching/whining-crying-and-belly-aching.md
 author: erik
 categories:
 - ideas
 tags: []
+layout: ""
 ---
 Is there anything worse than a whining, sniffling, belly aching kid? I think not. Sometimes, It seems like it’s all my kids do. We hear such long suffering complaints as “Vegetables are gross, WAH”, or “I don’t want to do my chores, WAH, WAH”. And my personal favorite, “Why me?, WAH, WAH, WAH”. It seems to go on and on forever. It’s enough to drive a person crazy. It’s no consolation but my kids are not alone. From what I’ve seen, incessant whining is a skill in which nearly every child excels.
 
