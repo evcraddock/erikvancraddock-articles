@@ -1,5 +1,5 @@
 ---
-id: 5bf478ca8291b5000534fa25
+id: 5bf47c768291b5000534fa27
 title: Learn to Suffer
 url: learn-to-suffer
 banner: learn-to-suffer.jpg
