@@ -1,15 +1,16 @@
 ---
+id: 5bef3057a44f6600052c5b2c
 title: Learn to Suffer
 url: learn-to-suffer
+banner: learn-to-suffer.jpg
 images:
-- suffering.jpg
-banner: suffering.jpg
+- learn-to-suffer.jpg
 publishDate: 11/15/2018
-dataSource: /home/erik/code/src/github.com/evcraddock/erikvancraddock-articles/learn-to-suffer/learn-to-suffer.md
 author: Erik Craddock
 categories:
 - work
 tags: []
+layout: ""
 ---
 When my son was about five years old, he asked me to play one of his games for him. He was stuck on a difficult level that he couldn’t beat. I wouldn’t help. I refused to play the game for him. I pointed out that if I beat the level than, I would be having the fun, not him. He decided not to play that game anymore. He said it wasn’t fun unless he was winning. This incident caused us to create the easy game.
 
@@ -21,7 +22,7 @@ I bet that if you look back on the most important events in your life, all of th
 
 Professionals are the people who understand this. They are the people that sacrifice their leisure time in order to improve. They are the ones who know that the word talent is a retroactive title given to those who have outworked everyone else. These are the people that we celebrate. They are the ones that we want to emulate. If you ask them how they did it, or what their secret is, they will probably give you some bullshit answer like, “never give up on your dreams”. This is because no one wants to hear the truth. The professional just worked really hard and so could you, if got off the couch.
 
-So, how do they actually do it? How do they convince that part of their brain that just wants to watch tv, to instead run another mile or write another page. I’ll tell you. They learned how to suffer. They learned to take pride in being the roughest, toughest son of a bitch that ever attempted what they were doing. In short, they fell in love with the work. They learned to love the work as much or more than the results. 
+So, how do they actually do it? How do you convince that part of your brain that just wants to watch tv, to instead run another mile or write another page. I’ll tell you. You learn how to suffer. You learn to take pride in being the roughest, toughest son of a bitch that ever attempted this. In short, you fall in love with the work. YOu learn to love the work as much or more than the results. 
 
 I’m not talking about passion or love at first sight. I think both of those concepts confuse the cause with the effect. Love is a decision. The more you work at it, the more attention you give it, the bigger it gets. You begin to understand, that, it is the hard times that make it possible to have something special. Nothing feels better than pushing through an impossible problem. Nothing compares to giving it all you’ve got and winning. Unfortunately, sometimes you lose. Sometimes you get your ass kicked. You suffer.  
 
