@@ -1,5 +1,4 @@
 ---
-id: 5be64eec65a6a00005259240
 title: Is it possible to sell sound?
 url: is-it-possible-to-sell-sound
 banner: sell-sound.jpg

@@ -1,5 +1,4 @@
 ---
-id: 5be64ef565a6a00005259251
 title: Sailing with Tron
 url: sailing-with-tron
 banner: captain-tron.jpg

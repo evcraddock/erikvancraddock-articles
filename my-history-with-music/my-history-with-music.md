@@ -1,5 +1,4 @@
 ---
-id: 5be64ef065a6a00005259247
 title: My History with Music
 url: my-history-with-music
 banner: first-guitar.jpg

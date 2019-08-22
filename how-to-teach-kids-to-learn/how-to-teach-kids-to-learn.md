@@ -1,5 +1,4 @@
 ---
-id: 5be64eeb65a6a0000525923d
 title: How to Teach Kids to Learn
 url: how-to-teach-kids-to-learn
 banner: teach-kids.jpg

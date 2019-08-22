@@ -1,5 +1,4 @@
 ---
-id: 5be64ee065a6a0000525922b
 title: Communication Issues
 url: communication-issues
 banner: comm-issues.jpg

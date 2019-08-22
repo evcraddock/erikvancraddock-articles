@@ -1,5 +1,4 @@
 ---
-id: 5be64148b0aa380005de8a87
 title: Plan to Succeed
 url: plan-to-succeed
 banner: success_baby.jpg
